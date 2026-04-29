@@ -1,0 +1,26 @@
+# Niche: accents (funny.jokes.23)
+# African kids imitating English accents from different countries.
+# Format: compilation top-N of accent clips with new hook + banner.
+
+name = "accents"
+handle = "funny.jokes.23"
+
+# Upload-Post profile (create in uploadpost.com dashboard)
+upload_post_username = "funny.jokes.23"
+platforms = ["instagram"]   # Add "tiktok" after 3-5 day warm-up
+
+# Paths
+sources_dir = "data/niches/accents/sources"
+segments_dir = "data/niches/accents/segments"
+outputs_dir = "data/niches/accents/outputs"
+
+# Compilation params
+# Each accent snippet in the source videos is ~2-4s, so we keep shorts
+# and compile many per post.
+clips_per_post = 15           # ~15 accents per compilation
+min_clip_duration = 2.0       # seconds — minimum accent snippet
+max_clip_duration = 8.0       # seconds — longer clips trimmed
+target_total_duration = 55.0  # aim for ~55s final
+
+# Daily posting slots (Madrid tz)
+daily_slots = [[10, 0], [14, 0], [18, 0], [22, 0]]

@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+
+# Local data (muchos de estos se regeneran)
+data/outputs/*
+!data/outputs/.gitkeep
+data/logs/
+
+# Build artifacts
+*.egg-info/
+build/
+dist/
+
+# Secrets — NUNCA commitear (se reconstruye en CI desde GitHub Secrets)
+config/config.toml
+*.env
+.env
+
+# Biblioteca local de clips (pesada, ~GB)
+data/library/
+data/raw/
+data/niches/
+data/branding/

@@ -1,0 +1,68 @@
+name: Daily stats email
+
+on:
+  schedule:
+    # 21:00 UTC = 23:00 Madrid (CEST verano) / 22:00 (CET invierno)
+    # GitHub Actions cron usa siempre UTC y NO ajusta DST.
+    - cron: "0 21 * * *"
+  workflow_dispatch:  # Permite disparar manualmente desde la UI para testear
+
+jobs:
+  send-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # para hacer commit del snapshot diario
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install tomli httpx anthropic upload-post
+
+      - name: Build config from secrets
+        env:
+          UPLOAD_POST_API_KEY: ${{ secrets.UPLOAD_POST_API_KEY }}
+          UPLOAD_POST_USERNAME: ${{ secrets.UPLOAD_POST_USERNAME }}
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+        run: |
+          mkdir -p config
+          cat > config/config.toml <<EOF
+          [claude]
+          api_key = "${CLAUDE_API_KEY}"
+          model = "claude-haiku-4-5-20251001"
+
+          [upload_post]
+          api_key = "${UPLOAD_POST_API_KEY}"
+          username = "${UPLOAD_POST_USERNAME}"
+          platforms = ["youtube", "instagram", "x", "tiktok"]
+
+          [email]
+          sender   = "${EMAIL_SENDER}"
+          password = "${EMAIL_PASSWORD}"
+          to       = "${EMAIL_TO}"
+          EOF
+
+      - name: Run analytics pull + email
+        run: python scripts/email_report.py
+
+      - name: Commit today's snapshot back to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Borramos config.toml por si acaso (no se debe commitear NUNCA)
+          rm -f config/config.toml
+          git add data/analytics/snapshots/ || true
+          git diff --staged --quiet || git commit -m "chore: daily analytics snapshot"
+          git push || true

@@ -1,0 +1,743 @@
+{
+  "pulled_at": "2026-04-19T19:41:21.796424+02:00",
+  "username": "FCCore-23",
+  "per_platform": {
+    "instagram": {
+      "instagram": {
+        "followers": 19,
+        "reach": 46924.0,
+        "views": 69552.0,
+        "impressions": 69552.0,
+        "profileViews": 2967.0,
+        "likes": 3606.0,
+        "comments": 1.0,
+        "shares": 20.0,
+        "saves": 54.0,
+        "reach_timeseries": [
+          {
+            "date": "2026-03-22",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-23",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-24",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-25",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-26",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-27",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-28",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-29",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-30",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-31",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-01",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-02",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-03",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-04",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-05",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-06",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-07",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-08",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-09",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-10",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 2.0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 24257.0
+          },
+          {
+            "date": "2026-04-19",
+            "value": 22665.0
+          }
+        ],
+        "metric_type": "reach",
+        "available_metrics": [
+          "followers",
+          "reach",
+          "views",
+          "impressions",
+          "profileViews",
+          "likes",
+          "comments",
+          "shares",
+          "saves"
+        ],
+        "metric_labels": {
+          "reach": "Unique Reach",
+          "views": "Views",
+          "impressions": "Views",
+          "profileViews": "Accounts Engaged"
+        },
+        "primary_impressions_field": "reach"
+      }
+    },
+    "youtube": {
+      "youtube": {
+        "followers": 2,
+        "reach": 0,
+        "impressions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-03-21",
+            "value": 0
+          },
+          {
+            "date": "2026-03-22",
+            "value": 0
+          },
+          {
+            "date": "2026-03-23",
+            "value": 0
+          },
+          {
+            "date": "2026-03-24",
+            "value": 0
+          },
+          {
+            "date": "2026-03-25",
+            "value": 0
+          },
+          {
+            "date": "2026-03-26",
+            "value": 0
+          },
+          {
+            "date": "2026-03-27",
+            "value": 0
+          },
+          {
+            "date": "2026-03-28",
+            "value": 0
+          },
+          {
+            "date": "2026-03-29",
+            "value": 0
+          },
+          {
+            "date": "2026-03-30",
+            "value": 0
+          },
+          {
+            "date": "2026-03-31",
+            "value": 0
+          },
+          {
+            "date": "2026-04-01",
+            "value": 0
+          },
+          {
+            "date": "2026-04-02",
+            "value": 0
+          },
+          {
+            "date": "2026-04-03",
+            "value": 0
+          },
+          {
+            "date": "2026-04-04",
+            "value": 0
+          },
+          {
+            "date": "2026-04-05",
+            "value": 0
+          },
+          {
+            "date": "2026-04-06",
+            "value": 0
+          },
+          {
+            "date": "2026-04-07",
+            "value": 0
+          },
+          {
+            "date": "2026-04-08",
+            "value": 0
+          },
+          {
+            "date": "2026-04-09",
+            "value": 0
+          },
+          {
+            "date": "2026-04-10",
+            "value": 0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 0
+          },
+          {
+            "date": "2026-04-19",
+            "value": 0
+          }
+        ],
+        "metric_type": "views",
+        "data_source": "youtube_analytics_api",
+        "available_metrics": [
+          "followers",
+          "impressions",
+          "likes",
+          "comments",
+          "shares"
+        ],
+        "metric_labels": {
+          "impressions": "Video Views",
+          "followers": "Subscribers"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    },
+    "x": {
+      "x": {
+        "followers": 0,
+        "reach": 0,
+        "impressions": 5,
+        "likes": 2,
+        "comments": 0,
+        "shares": 4,
+        "saves": 0,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-03-21",
+            "value": 0
+          },
+          {
+            "date": "2026-03-22",
+            "value": 0
+          },
+          {
+            "date": "2026-03-23",
+            "value": 0
+          },
+          {
+            "date": "2026-03-24",
+            "value": 0
+          },
+          {
+            "date": "2026-03-25",
+            "value": 0
+          },
+          {
+            "date": "2026-03-26",
+            "value": 0
+          },
+          {
+            "date": "2026-03-27",
+            "value": 0
+          },
+          {
+            "date": "2026-03-28",
+            "value": 0
+          },
+          {
+            "date": "2026-03-29",
+            "value": 0
+          },
+          {
+            "date": "2026-03-30",
+            "value": 0
+          },
+          {
+            "date": "2026-03-31",
+            "value": 0
+          },
+          {
+            "date": "2026-04-01",
+            "value": 0
+          },
+          {
+            "date": "2026-04-02",
+            "value": 0
+          },
+          {
+            "date": "2026-04-03",
+            "value": 0
+          },
+          {
+            "date": "2026-04-04",
+            "value": 0
+          },
+          {
+            "date": "2026-04-05",
+            "value": 0
+          },
+          {
+            "date": "2026-04-06",
+            "value": 0
+          },
+          {
+            "date": "2026-04-07",
+            "value": 0
+          },
+          {
+            "date": "2026-04-08",
+            "value": 0
+          },
+          {
+            "date": "2026-04-09",
+            "value": 0
+          },
+          {
+            "date": "2026-04-10",
+            "value": 0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 5
+          },
+          {
+            "date": "2026-04-19",
+            "value": 0
+          }
+        ],
+        "metric_type": "impressions",
+        "available_metrics": [
+          "followers",
+          "impressions"
+        ],
+        "metric_labels": {
+          "impressions": "Impressions"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    },
+    "tiktok": {
+      "tiktok": {
+        "success": false,
+        "message": "Profile 'FCCore-23' has no TikTok account connected."
+      }
+    }
+  },
+  "scheduled": {
+    "scheduled_posts": [
+      {
+        "job_id": "a984268737d344a89cb1dc88de428b1a",
+        "scheduled_date": "2026-04-19T20:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "this is what football core looks like \u26bd",
+        "caption": "",
+        "description": "this is what football core looks like \u26bd\n\n#footballcore #football #footballtiktok #foryoupage #footballskills #hopecore #skills #viralvideo",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "this is what football core looks like \u26bd",
+            "caption": "this is what football core looks like \u26bd\n\n#footballcore #football #footballtiktok #foryoupage #footballskills #hopecore #skills #viralvideo"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/73a919834c7f4fa3a2cff9826c5a9945.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=e9876caa434e56d97f7beae1bf17f007506bf9462c0636c6d1195299e5451927a7cf277fc9b4827d511cc8703634842644a2e326159a6d3c86fed976d095e808628ab43e917f56a9928cf3c1ff25a73dc2d8d9c46abae01f51428333ba3acf3f3dae8d897f5ebbe99e99f4fc022d68842bd49a70bc8ffe01123c782d2e06acdca08d87d77fb7424ba8d620e5d1ba779472a8b6a0a63291dec2f2ca4873bf45ed5a284136b10b1b0673c96a41a3d14b7450f9aae9adf135a32dcaa5c60ebd23de5edd8f3ce404c14a7af3520a7a90b2b0e471282a209bbd952fd30a8409c65d7890950bbd31a976462644907dd05d186004a130c23f8ffccc6d9b901ba3103f54",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/cd708b7321684baba13215b8c6854ce9.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-19T20:00:00Z"
+      },
+      {
+        "job_id": "d12ef72a099a4f5bbf86ab51db54af5c",
+        "scheduled_date": "2026-04-20T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core \u2022 beautiful game",
+        "caption": "",
+        "description": "football core \u26bd\n\n#footballcore #football #footballtiktok #foryoupage #footballshorts #beautifulgame #soccer #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "football core \u2022 beautiful game",
+            "caption": "football core \u26bd\n\n#footballcore #football #footballtiktok #foryoupage #footballshorts #beautifulgame #soccer #Shorts"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/6139a875dd6e4a8aa3574a3387fbf68e.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=9d35a5e273f9c3a6bdf94b80fdabfe83be5408c939a7aa6f567cab8816117d4fe6424b61092240ad50380fe21dd4c91adbc9d3769edb84353bcbb1a6cb13825af76665acfa6219fd6eb90199af86a19d1ea98ad39062b2622130728ceb03d35c4c7631a88492a7f291e211a7d2bbfcf43d4eb0bbc9f2ac91e6f379c9f78999fd551c80f86a42f483c7d7a79437261e569da79af55feb3243e297721c2eb261071b981f96c2f3c83bbbb5be42093d8888793d82df4c2c33944a38eed7fe0a6168117759af8bf28b5d63e3ade31d1de892c8d1b121040617d8f99245fb7cbb361fe676c7f00d8ec2564be1438f55e66b7cef9d1e2b05c9c5715238139677a090e0",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/243546d4f6444c03933e89d87908740b.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-20T08:00:00Z"
+      },
+      {
+        "job_id": "983938ec62d44484808bd05cf291eb5a",
+        "scheduled_date": "2026-04-20T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core hits different \ud83d\udc51",
+        "caption": "",
+        "description": "football core hits different \ud83d\udc51\n\n#footballcore #football #footballtiktok #funnyfootball #viralvideo #footballskills #foryoupage #soccer",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core hits different \ud83d\udc51",
+            "caption": "football core hits different \ud83d\udc51\n\n#footballcore #football #footballtiktok #funnyfootball #viralvideo #footballskills #foryoupage #soccer"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/3badeaa56bf7448c865306bc8ba459f5.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=c489861d394482029cf82d70c3c7f452e887878581ea94af0455d38efd116480e204984c095ae7b831587f2543d767f04640d1b4d2449bc633816579a69e08550920d2e9ee7c4bb8803d5385e813e58076e7e8775f70f01ac5b07ccb6f7519a04b15712c3c6d4b1527847712cbaec73101204ebf211bb5c7bbebc9d40b9ed21b943eda99c3ab26fb221c33d278bd26a3330173f25303ed15a20a4ef6c945d7070bf8dccba8508bd12025dbf7e40d60e4d7c1f8090493cbd94f8fad59c93d3930b0a5ce8f6d39dc871e975de4737ca6d0361f0029f70552f9e7ce56384e99d08531f3c79322dcafd78df3f7f7a3ed103a3e9dcc38de0a3d2336c0a9907f7f667c",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/784a005f189e468eaa5ab1563fcbafd3.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-20T08:00:00Z"
+      },
+      {
+        "job_id": "1ef0206ad5aa45c58b795ecb9d382d1b",
+        "scheduled_date": "2026-04-20T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "just football core.",
+        "caption": "",
+        "description": "just football core.\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "just football core.",
+            "caption": "just football core.\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/89b896e5c04e442889483fc3974edbaf.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=49c872f38fba500e7bda4a6880fbaccc722f01cc1212c84e8944338694875d6a9937f642d8431696592c49170263cc4f1d1b7c1577b1fae68a8e3336124fd848004908ac35fcdc30283e6fa2bd35baf849c8a4e3730ed870ecbf53dc9947402c1fd6595fa68c8647955924678a2f4d4f851d5da02c5c1c52785ce86596c822e54cc5a8063b9d2a4e42a283ea46d408ac808ca2e5edee5636b678c2d78b06de2617b3d2b9dda3cb152f84b04bb903c1e469990e91beac39ed8fd1f80a938c0f024f86143e37d8c9af0c0d71c20e12af3f007180ec6668c20d868a0fa4753b4bc31a123a50d660a2f7c706090531b1c4e360af45e6c31acc3dce028bb540323c99",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/77e1e2edb2484aeda71571e23d4c0fb6.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-20T08:00:00Z"
+      },
+      {
+        "job_id": "4f1c7282124f46cca6ae116b4e1e4c6c",
+        "scheduled_date": "2026-04-20T12:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core hits different \u26bd",
+        "caption": "",
+        "description": "football core hits different \u26bd\n\n#footballcore #football #footballtiktok #footballskills #fyp #viralvideo #footballshorts #skills",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core hits different \u26bd",
+            "caption": "football core hits different \u26bd\n\n#footballcore #football #footballtiktok #footballskills #fyp #viralvideo #footballshorts #skills"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/89aa6c120cd84866a3b872fd3cdd2f60.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=52645531a14e3e68654f7534e63c371fdfc22a78b8b53373f54b54569fb2bfa493f6cb8c71f7035c19ba0714d47c1a1dd0e76c81fcea052c544501c5f12d6d910137141c2cf361ef0b532216744797f646d9ab2488fcd4ca64a41b8a1a4d5bc27ed50bc59dc50c01309ef6b051831d0d668b346581355d3beebaac41366ae0a7ffabd612c2a90fddb579e7bf7562f7fec138417f57a47d55ba3b6bc7d933f51f04d281722c84507777aaea4df86b532e03d7aa67dd1047adcfa564298bd3e840cacc67a4db1a421b1ddba5dec13cda0a8cc47543b30634c13ed25dcfa27fdb17fac50d4908099556fa392d1b15b90ddafe105895120e5bdbc80334095555d6eb",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/fef2ab95eb2e4e9ea9657599c4b9c38a.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-20T12:00:00Z"
+      },
+      {
+        "job_id": "f6e1e34a2cb549d1bee86caa23247bb6",
+        "scheduled_date": "2026-04-20T16:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core \u2022 pure skill",
+        "caption": "",
+        "description": "football core \u26bd\n\n#footballcore #football #footballtiktok #soccer #fyp #footballedit #hopecore #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "football core \u2022 pure skill",
+            "caption": "football core \u26bd\n\n#footballcore #football #footballtiktok #soccer #fyp #footballedit #hopecore #Shorts"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/6b63c0c5dffe418f8f18ec2979d2659a.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=05f0ad10cd895290f43e57d57a0388679d2a943be858a07fc37d1d079f93049de26763df908b602b78e8124051fa727f3ad53d6e7bd347c3915a57e58fa8d51105b08080f5682953de2c7723c3e58d354a3a8d3f3bf02fed940c5575911b26b2f430b4ccba8ebb8164086c2e9c4a94be5c7e0afde0749424918ce47fb383dc2d125daaca1f43676f1c60f1d8c3deaf31bd7c42f9b39f4005bccb91213779ade7a6a01f4f86121e4d6fbaeeb5d51902eda4b3b85709d7bfc6381437ee80ab3fee6222fcf00aa3fd2f8ee94c6987d153d9dba6c38402a4bd3bcc4b51ef3c2df476925a65901f0b41ccc162862d7cfdb0868708465aa24bada3d6d5bacebae3b646",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/0cc4437e64bd45b5b819198f970502d1.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-20T16:00:00Z"
+      },
+      {
+        "job_id": "c1f0b0d2041d4027bb1af0301d4f120a",
+        "scheduled_date": "2026-04-20T16:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core hits different \u26bd",
+        "caption": "",
+        "description": "football core hits different \u26bd\n\n#footballcore #football #footballtiktok #skills #viralvideo #funnyfootball #soccer #footballedit",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core hits different \u26bd",
+            "caption": "football core hits different \u26bd\n\n#footballcore #football #footballtiktok #skills #viralvideo #funnyfootball #soccer #footballedit"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/f5b317e2486c46dba5b554da5ee703b3.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=adc6c71de6e7ac61ab094941b6df91a2d0dddafc06ea5bfe16a12496490a6ecb08a3d2ed90d3cfbebaa8bb1a8ef3bdf92e853b20c7fd42f833724ce26ed92571d628e70ecd44d6376471d8f4e7edff12d545aea9fd80df1aba21db71da86cf2ce0e147beff04fe5c67a84756b1f91165e2c416a7fb1b534da6eaa605273445b26a85469500e527a8e9687650431a1631a3519ddb8d461f25fb842d1106f2e0b52236981eab3e6964e7740467c2416da2c2a6ae29cbc619746b87444e79c7a4724b26c912364410fa10d10d525120ba8d4a4de6db2441d9fca6de44b08b44d1bed18ba45940108f7b81795a1ecc0411927782b53c84a17595f3ec22b5e2d74ebe",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/ae3511a7fa0241cab4057640944a3a8d.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-20T16:00:00Z"
+      },
+      {
+        "job_id": "2a88784d38b64c5e859e127b02e7eb63",
+        "scheduled_date": "2026-04-20T16:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "just football core things",
+        "caption": "",
+        "description": "just football core things\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "just football core things",
+            "caption": "just football core things\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/ea61384ec3ba49008c589950a8144df2.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=d64033627df87e96d90ef1950ace172834ed33d09e7237e2bf343ea7d9506946b4a5be79103e1003fbef52f83590bfc73b9ec094446223a87947f550aadfdf8c5e54aa95593bf97598454c7c7cc65ca2704a2ac5da555006610f0a5b44cf33f020389fec7232665e5ff2334da78528bcb36fd529a22b425bfd1825250fbb79307aa8c3b9ca3a156363c09c8916ea5cec3c1bac0a67ef583c0d8fe87a611115714d0e9fd76878002e3b026079a0bf03ee9970aef3441c2fb51b73c0a0bb32419f1cf3c442580701090e1111d7afd1995524a5a9a8827199c8921dddf56cf7e4ecb42a8ca90985a9860d8fd772fbe78c68cc2ec5d8d029d90e686e877490aedbea",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/7395569ae8834756a6aaea4f86cc49c9.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-20T16:00:00Z"
+      },
+      {
+        "job_id": "a61c45f5200a4f77abcb0ac9a3d58b6b",
+        "scheduled_date": "2026-04-20T20:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core hits different every single time \u26bd",
+        "caption": "",
+        "description": "football core hits different every single time \u26bd\n\n#footballcore #football #footballtiktok #footballskills #skills #foryoupage #footballedit #soccerlife",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core hits different every single time \u26bd",
+            "caption": "football core hits different every single time \u26bd\n\n#footballcore #football #footballtiktok #footballskills #skills #foryoupage #footballedit #soccerlife"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/57ff19bb2c254fc7b237d5f4075c3196.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=e702bca8603ccc66bdb0d9bb515ac1811c88f31edceac64edc218bc847f233f4171aca1aafbe9609f0fef20cecf0119ca3ae79a8d1ab719dcf07459ccda75fe0d61fd26ea4260104722e4e9bd11dba639827112302214e7089d37e9b04f6d6fce9a2d7780e761116f32fb9c4e646587672757f33fa57dde46d73336ece5efdec7ffb35e07a12eee7e0123be3673355be86b781b7ec196e147dd87d35adf07b2213997cf8d64a34846d7aa141d43978af1d748c4e8c4a6ceaebeebc1bd0c2effc89baaf6e07081b0389d4905967148cde46057449eddcd6b9630b32a9d9b7cf66cb3d3330214938c8645df6792d54c5f92e989b893feead079ecf938ad5dea7e7",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/6828253abb0743d6af537fc1476b617a.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-20T20:00:00Z"
+      },
+      {
+        "job_id": "30949604871e40b9afb521300ca841f5",
+        "scheduled_date": "2026-04-21T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core \u2022 beautiful game",
+        "caption": "",
+        "description": "football core \u26bd\n\n#footballcore #football #footballtiktok #footballskills #soccerlife #footballshorts #hopecore #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "football core \u2022 beautiful game",
+            "caption": "football core \u26bd\n\n#footballcore #football #footballtiktok #footballskills #soccerlife #footballshorts #hopecore #Shorts"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/7ede180dab0c4bfb8ab3ba2b45b0e907.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=d7acd055d7f0f59dd13a54168a6a0b6338af34dd315a472b0d2ea999815187d58fdd8c75171f5fb7ad614619cf33038e58e99d522bda7c8a9b568d7ed3d95474098e4e52ab6d73cb0d9f14ae99667fd98437c1fe24921926158a034b6fc4364a281b101955a9157c5dc84ac83fb266edb13f87358ba402c96b6854d3050a83c86275dd502d25e255732b4cf3fea400a131649f6e22b7938ac446c05d5ef6d82c146505b44440f2d10c4af0842f75ba4a141ca847a44ad4f81fe89fe75d725b9ae0ae378fe357e964e4c7f3c5df2621730a049c6655bd79e8f4896b2c7b59959ea8a7e34ae63f46b4d5d8b02a5b2a248b47efb2b1b7ee6a4bf1a31aecd0f91fe7",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/558ba14393ac450db1264658f5f11db2.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-21T08:00:00Z"
+      },
+      {
+        "job_id": "f9b1d31b9fa94e55bb3dabd9503972c8",
+        "scheduled_date": "2026-04-21T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core hits different when it's real \u26bd",
+        "caption": "",
+        "description": "football core hits different when it's real \u26bd\n\n#footballcore #football #footballtiktok #beautifulgame #soccerlife #soccer #footballshorts #funnyfootball",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core hits different when it's real \u26bd",
+            "caption": "football core hits different when it's real \u26bd\n\n#footballcore #football #footballtiktok #beautifulgame #soccerlife #soccer #footballshorts #funnyfootball"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/0a0dc6ee2ec54576a10cd90180556af9.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=1a342c64dbf5644eddcb148e091e64f39b19c8221a62acdf1af8ce8499625f5115b924baa681f9cb0921981288e598dd2acf16f8369678ef6af786f5a5eea1e63f4c016a8a6c80a77f32cd2b1dbe0deafd2580d06f53220d8d5a266be356c46bcd2f35447ae4760959bee3a97b4cf09088268fca3818e7fb7f0d3222e2fb70bebf93a50f3c469f049e7ee8228f79012ba6d140d5e6c69d5ba5894c01e3f6f7217fe42a3ec52b5cc9d0b2d10f999c26e82bbd1572c396e85eb483eb627e6f14086cbeaef352d5d9ff29d2bfc6e06abfcdf08b09e6494d77eea63afc04dbcd4cff4edbfd38719f171e155e371230feb8b3dbf165c931bd05bf94c337a294d4601b",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/99e1980026b24f1d97b9b66b050224ed.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-21T08:00:00Z"
+      },
+      {
+        "job_id": "2351a7b54225448bb47d2c4ff8ab7848",
+        "scheduled_date": "2026-04-21T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "just football core things",
+        "caption": "",
+        "description": "just football core things\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "just football core things",
+            "caption": "just football core things\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/35fb2763fb394dd4b91360b76e57bf9d.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=080e5704200f72599030f4e4edd44ec7e8515227149d26713d690bd345469f11b3e518e6640bb7502499e1f2a591904b3719d247f67ef8d5df0a6ceae9f9e61149c59ab7aa69c40c09ff4f1ab3916d8c8aa292cac940718ff0015b9d97d2934376919e9772c9764733f976bb8a50e9a65d881ed75c46ff64e656434040e0b4c4950e4c1696e9240d03515f16c5698f72da222c73cec68b72a3b0ea934e0a3d37c62f08abe086e72edfd31f9beb718726fc9dfea489df5f631fe7dc3c93f3614bced553025279ec96a34ff082e7e98bef43b36fba5c98efa73b504169336e376222e51078095f964c41ab2c5aff1b75501ddb4402b42b0a6819d2f3b7319336cf",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/285ddfade20a42d997e43801229030f5.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-21T08:00:00Z"
+      },
+      {
+        "job_id": "043a099b07084da2aaaa8d65c83d852c",
+        "scheduled_date": "2026-04-21T12:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core hits different \u26bd",
+        "caption": "",
+        "description": "football core hits different \u26bd\n\n#footballcore #football #footballtiktok #soccerlife #hopecore #footballskills #soccer #foryoupage",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core hits different \u26bd",
+            "caption": "football core hits different \u26bd\n\n#footballcore #football #footballtiktok #soccerlife #hopecore #footballskills #soccer #foryoupage"
+          }
+        },
+        "preview_url": "https://storage.googleapis.com/upload-post-schedulers-eu3/f534943bebc94d4eba35a22fc8bb7ef9.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=first-test%40principal-lane-298314.iam.gserviceaccount.com%2F20260419%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260419T174125Z&X-Goog-Expires=21600&X-Goog-SignedHeaders=host&X-Goog-Signature=bbea803bbf6e48daa4a364a2269a4efadbb9be8bed0de3e36fa4f9f2bed8448950134305159e6b01f3ace68d6008c408c1b44f9f85473048693976750e833976d54e4fc91c30184c4be808ff4ffb5f50f2d9d3c897cac11df91ec8dac5ce2729e03e669575013902691ddfedd1ed850edea5eb768b8f69f6b04ca7800838acf8ba4b8a1eb786485cf60209f09fe12f2bed8cdbd01fe8cf597225a4316531e1da600de47be18e81a44da085dc70d14318a99f8f0329b5d4a70f2975e49e9a57959ce67a4728a9ce8613d42683333e6ec2ce770543822404ae3c81c8b2eecf036666cb7b8c69b9df54092f01a3b39f46a792268385ef02d5777a5d419ea4c65491",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/36db241c9633401b9d29adc61684b33c.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-04-21T12:00:00Z"
+      }
+    ]
+  }
+}

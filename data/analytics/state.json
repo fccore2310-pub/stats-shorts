@@ -1,0 +1,41 @@
+{
+  "last_analysis": "2026-04-18T15:09:38.561705+02:00",
+  "last_snapshot_date": "2026-04-18",
+  "headline": {
+    "instagram": {
+      "followers": 2,
+      "reach": 699.0,
+      "views": 855.0,
+      "impressions": 855.0,
+      "profileViews": 43.0,
+      "likes": 63.0,
+      "comments": 0.0,
+      "shares": 1.0,
+      "saves": 2.0
+    },
+    "youtube": {
+      "followers": 0,
+      "reach": 0,
+      "impressions": 0,
+      "profileViews": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0
+    },
+    "x": {
+      "followers": 0,
+      "reach": 0,
+      "impressions": 4,
+      "profileViews": 0,
+      "likes": 2,
+      "comments": 0,
+      "shares": 4,
+      "saves": 0
+    },
+    "tiktok": {
+      "error": "Profile 'FCCore-23' has no TikTok account connected."
+    }
+  },
+  "report_preview": "# Analytics report \u2014 2026-04-18\n\n## instagram\n- followers: 2\n- reach: 699.0\n- views: 855.0\n- impressions: 855.0\n- profileViews: 43.0\n- likes: 63.0\n- comments: 0.0\n- shares: 1.0\n- saves: 2.0\n\n## youtube\n- followers: 0\n- reach: 0\n- impressions: 0\n- profileViews: 0\n- likes: 0\n- comments: 0\n- shares: 0\n- saves: 0\n\n## x\n- followers: 0\n- reach: 0\n- impressions: 4\n- profileViews: 0\n- likes: 2\n- comments: 0\n- shares: 4\n- saves: 0\n\n## tiktok\n- error: `Profile 'FCCore-23' has no TikTok account connected.`\n"
+}

@@ -1,0 +1,599 @@
+{
+  "pulled_at": "2026-04-24T09:05:58.594902+02:00",
+  "username": "FCCore-23",
+  "per_platform": {
+    "instagram": {
+      "instagram": {
+        "followers": 23,
+        "reach": 55763.0,
+        "views": 82721.0,
+        "impressions": 82721.0,
+        "profileViews": 3672.0,
+        "likes": 4529.0,
+        "comments": 1.0,
+        "shares": 35.0,
+        "saves": 77.0,
+        "reach_timeseries": [
+          {
+            "date": "2026-03-27",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-28",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-29",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-30",
+            "value": 0.0
+          },
+          {
+            "date": "2026-03-31",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-01",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-02",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-03",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-04",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-05",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-06",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-07",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-08",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-09",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-10",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 2.0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 24257.0
+          },
+          {
+            "date": "2026-04-19",
+            "value": 28342.0
+          },
+          {
+            "date": "2026-04-20",
+            "value": 1260.0
+          },
+          {
+            "date": "2026-04-21",
+            "value": 843.0
+          },
+          {
+            "date": "2026-04-22",
+            "value": 494.0
+          },
+          {
+            "date": "2026-04-23",
+            "value": 565.0
+          },
+          {
+            "date": "2026-04-24",
+            "value": 0.0
+          }
+        ],
+        "metric_type": "reach",
+        "available_metrics": [
+          "followers",
+          "reach",
+          "views",
+          "impressions",
+          "profileViews",
+          "likes",
+          "comments",
+          "shares",
+          "saves"
+        ],
+        "metric_labels": {
+          "reach": "Unique Reach",
+          "views": "Views",
+          "impressions": "Views",
+          "profileViews": "Accounts Engaged"
+        },
+        "primary_impressions_field": "reach"
+      }
+    },
+    "youtube": {
+      "youtube": {
+        "followers": 915,
+        "reach": 0,
+        "impressions": 134670,
+        "likes": 4296,
+        "comments": 6,
+        "shares": 27,
+        "saves": 0,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-03-26",
+            "value": 0
+          },
+          {
+            "date": "2026-03-27",
+            "value": 0
+          },
+          {
+            "date": "2026-03-28",
+            "value": 0
+          },
+          {
+            "date": "2026-03-29",
+            "value": 0
+          },
+          {
+            "date": "2026-03-30",
+            "value": 0
+          },
+          {
+            "date": "2026-03-31",
+            "value": 0
+          },
+          {
+            "date": "2026-04-01",
+            "value": 0
+          },
+          {
+            "date": "2026-04-02",
+            "value": 0
+          },
+          {
+            "date": "2026-04-03",
+            "value": 0
+          },
+          {
+            "date": "2026-04-04",
+            "value": 0
+          },
+          {
+            "date": "2026-04-05",
+            "value": 0
+          },
+          {
+            "date": "2026-04-06",
+            "value": 0
+          },
+          {
+            "date": "2026-04-07",
+            "value": 0
+          },
+          {
+            "date": "2026-04-08",
+            "value": 0
+          },
+          {
+            "date": "2026-04-09",
+            "value": 0
+          },
+          {
+            "date": "2026-04-10",
+            "value": 0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 1101
+          },
+          {
+            "date": "2026-04-19",
+            "value": 6
+          },
+          {
+            "date": "2026-04-20",
+            "value": 38265
+          },
+          {
+            "date": "2026-04-21",
+            "value": 95298
+          },
+          {
+            "date": "2026-04-22",
+            "value": 0
+          },
+          {
+            "date": "2026-04-23",
+            "value": 0
+          },
+          {
+            "date": "2026-04-24",
+            "value": 0
+          }
+        ],
+        "metric_type": "views",
+        "data_source": "youtube_analytics_api",
+        "available_metrics": [
+          "followers",
+          "impressions",
+          "likes",
+          "comments",
+          "shares"
+        ],
+        "metric_labels": {
+          "impressions": "Video Views",
+          "followers": "Subscribers"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    },
+    "x": {
+      "x": {
+        "followers": 0,
+        "reach": 0,
+        "impressions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-03-26",
+            "value": 0
+          },
+          {
+            "date": "2026-03-27",
+            "value": 0
+          },
+          {
+            "date": "2026-03-28",
+            "value": 0
+          },
+          {
+            "date": "2026-03-29",
+            "value": 0
+          },
+          {
+            "date": "2026-03-30",
+            "value": 0
+          },
+          {
+            "date": "2026-03-31",
+            "value": 0
+          },
+          {
+            "date": "2026-04-01",
+            "value": 0
+          },
+          {
+            "date": "2026-04-02",
+            "value": 0
+          },
+          {
+            "date": "2026-04-03",
+            "value": 0
+          },
+          {
+            "date": "2026-04-04",
+            "value": 0
+          },
+          {
+            "date": "2026-04-05",
+            "value": 0
+          },
+          {
+            "date": "2026-04-06",
+            "value": 0
+          },
+          {
+            "date": "2026-04-07",
+            "value": 0
+          },
+          {
+            "date": "2026-04-08",
+            "value": 0
+          },
+          {
+            "date": "2026-04-09",
+            "value": 0
+          },
+          {
+            "date": "2026-04-10",
+            "value": 0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 0
+          },
+          {
+            "date": "2026-04-19",
+            "value": 0
+          },
+          {
+            "date": "2026-04-20",
+            "value": 0
+          },
+          {
+            "date": "2026-04-21",
+            "value": 0
+          },
+          {
+            "date": "2026-04-22",
+            "value": 0
+          },
+          {
+            "date": "2026-04-23",
+            "value": 0
+          },
+          {
+            "date": "2026-04-24",
+            "value": 0
+          }
+        ],
+        "metric_type": "impressions",
+        "available_metrics": [
+          "followers",
+          "impressions"
+        ],
+        "metric_labels": {
+          "impressions": "Impressions"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    },
+    "tiktok": {
+      "tiktok": {
+        "followers": 11,
+        "reach": 0,
+        "impressions": 15735,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-03-26",
+            "value": 0
+          },
+          {
+            "date": "2026-03-27",
+            "value": 0
+          },
+          {
+            "date": "2026-03-28",
+            "value": 0
+          },
+          {
+            "date": "2026-03-29",
+            "value": 0
+          },
+          {
+            "date": "2026-03-30",
+            "value": 0
+          },
+          {
+            "date": "2026-03-31",
+            "value": 0
+          },
+          {
+            "date": "2026-04-01",
+            "value": 0
+          },
+          {
+            "date": "2026-04-02",
+            "value": 0
+          },
+          {
+            "date": "2026-04-03",
+            "value": 0
+          },
+          {
+            "date": "2026-04-04",
+            "value": 0
+          },
+          {
+            "date": "2026-04-05",
+            "value": 0
+          },
+          {
+            "date": "2026-04-06",
+            "value": 0
+          },
+          {
+            "date": "2026-04-07",
+            "value": 0
+          },
+          {
+            "date": "2026-04-08",
+            "value": 0
+          },
+          {
+            "date": "2026-04-09",
+            "value": 0
+          },
+          {
+            "date": "2026-04-10",
+            "value": 0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 0
+          },
+          {
+            "date": "2026-04-19",
+            "value": 0
+          },
+          {
+            "date": "2026-04-20",
+            "value": 0
+          },
+          {
+            "date": "2026-04-21",
+            "value": 0
+          },
+          {
+            "date": "2026-04-22",
+            "value": 4462
+          },
+          {
+            "date": "2026-04-23",
+            "value": 4739
+          },
+          {
+            "date": "2026-04-24",
+            "value": 0
+          }
+        ],
+        "likes": 726,
+        "comments": 2,
+        "shares": 20,
+        "video_count": 10,
+        "following": 4,
+        "metric_type": "views",
+        "available_metrics": [
+          "followers",
+          "impressions",
+          "likes",
+          "comments",
+          "shares",
+          "video_count",
+          "following"
+        ],
+        "metric_labels": {
+          "impressions": "Video Views"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    }
+  },
+  "scheduled": {
+    "scheduled_posts": []
+  }
+}

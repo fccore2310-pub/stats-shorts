@@ -1,0 +1,21 @@
+{
+  "pulled_at": "2026-04-22T20:42:15.283254+02:00",
+  "username": "FCCore-23",
+  "per_platform": {
+    "instagram": {
+      "error": "API request failed: HTTPSConnectionPool(host='api.upload-post.com', port=443): Max retries exceeded with url: /api/analytics/FCCore-23?platforms=instagram (Caused by NameResolutionError(\"HTTPSConnection(host='api.upload-post.com', port=443): Failed to resolve 'api.upload-post.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    "youtube": {
+      "error": "API request failed: HTTPSConnectionPool(host='api.upload-post.com', port=443): Max retries exceeded with url: /api/analytics/FCCore-23?platforms=youtube (Caused by NameResolutionError(\"HTTPSConnection(host='api.upload-post.com', port=443): Failed to resolve 'api.upload-post.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    "x": {
+      "error": "API request failed: HTTPSConnectionPool(host='api.upload-post.com', port=443): Max retries exceeded with url: /api/analytics/FCCore-23?platforms=x (Caused by NameResolutionError(\"HTTPSConnection(host='api.upload-post.com', port=443): Failed to resolve 'api.upload-post.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    "tiktok": {
+      "error": "API request failed: HTTPSConnectionPool(host='api.upload-post.com', port=443): Max retries exceeded with url: /api/analytics/FCCore-23?platforms=tiktok (Caused by NameResolutionError(\"HTTPSConnection(host='api.upload-post.com', port=443): Failed to resolve 'api.upload-post.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    }
+  },
+  "scheduled": {
+    "error": "API request failed: HTTPSConnectionPool(host='api.upload-post.com', port=443): Max retries exceeded with url: /api/uploadposts/schedule (Caused by NameResolutionError(\"HTTPSConnection(host='api.upload-post.com', port=443): Failed to resolve 'api.upload-post.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  }
+}

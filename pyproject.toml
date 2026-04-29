@@ -1,0 +1,13 @@
+[project]
+name = "shorts-pipeline"
+version = "0.2.0"
+description = "Football core compilation pipeline — download, split, remix"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.40",
+    "yt-dlp>=2024.0",
+    "httpx>=0.25",
+    "tomli>=2.0",
+    "rich>=13.0",
+    "selenium>=4.15",
+]

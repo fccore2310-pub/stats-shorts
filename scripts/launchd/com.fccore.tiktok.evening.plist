@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.fccore.tiktok.evening</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/zsh</string>
+        <string>/Users/fatimaabajo/Desktop/Shorts-Reels/scripts/auto_tiktok.sh</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>18</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/fatimaabajo/Desktop/Shorts-Reels</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/fatimaabajo/Desktop/Shorts-Reels/data/logs/launchd_evening.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/fatimaabajo/Desktop/Shorts-Reels/data/logs/launchd_evening.err.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
