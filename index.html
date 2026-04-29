@@ -7,9 +7,21 @@
   body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 4rem auto; padding: 0 1.5rem; color: #1a1a1a; line-height: 1.6; }
   h1 { font-size: 2rem; }
   a { color: #0a66c2; }
+  code { background: #f4f4f4; padding: 0.5rem 0.75rem; border-radius: 6px; display: block; word-break: break-all; font-size: 0.95rem; margin: 1rem 0; }
+  button { padding: 0.6rem 1rem; font-size: 0.95rem; cursor: pointer; border: 1px solid #ccc; border-radius: 6px; background: #fff; }
+  button:hover { background: #f4f4f4; }
+  .ok { color: #1f7a1f; }
+  .err { color: #b00020; }
+  .callback { border: 2px solid #0a66c2; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; background: #f5faff; }
 </style>
 </head>
 <body>
+
+<div id="callback" class="callback" style="display:none">
+  <h2>TikTok Auth Callback</h2>
+  <div id="cb-out"></div>
+</div>
+
 <h1>FC Core Publisher</h1>
 <p>Personal automation tool used by the operator of <a href="https://www.tiktok.com/@fc.core.23.10">@fc.core.23.10</a> to publish football compilation videos to TikTok, YouTube and Instagram.</p>
 <ul>
@@ -17,5 +29,26 @@
   <li><a href="privacy.html">Privacy Policy</a></li>
 </ul>
 <p><small>Contact: marcospastorabajo@gmail.com</small></p>
+
+<script>
+const params = new URLSearchParams(window.location.search);
+const code = params.get('code');
+const error = params.get('error');
+const errDesc = params.get('error_description');
+const cbBox = document.getElementById('callback');
+const out = document.getElementById('cb-out');
+
+if (error) {
+  cbBox.style.display = 'block';
+  out.innerHTML = `<p class="err">❌ Error: <strong>${error}</strong></p><p>${errDesc || ''}</p>`;
+} else if (code) {
+  cbBox.style.display = 'block';
+  out.innerHTML = `
+    <p class="ok">✅ Auth code recibido. Cópialo y pégalo en la terminal:</p>
+    <code id="code">${code}</code>
+    <button onclick="navigator.clipboard.writeText(document.getElementById('code').textContent); this.textContent='Copiado ✓'">Copiar al portapapeles</button>
+  `;
+}
+</script>
 </body>
 </html>
