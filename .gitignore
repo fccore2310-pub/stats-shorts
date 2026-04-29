@@ -16,6 +16,10 @@ dist/
 
 # Secrets — NUNCA commitear (se reconstruye en CI desde GitHub Secrets)
 config/config.toml
+config/youtube_oauth.json
+config/youtube_token.json
+config/instagram_token.json
+config/tiktok_token.json
 *.env
 .env
 
