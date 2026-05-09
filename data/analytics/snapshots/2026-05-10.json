@@ -1,0 +1,776 @@
+{
+  "pulled_at": "2026-05-10T01:32:57.954633+02:00",
+  "username": "FCCore-23",
+  "per_platform": {
+    "instagram": {
+      "instagram": {
+        "followers": 24,
+        "reach": 61347.0,
+        "views": 90317.0,
+        "impressions": 90317.0,
+        "profileViews": 4003.0,
+        "likes": 4995.0,
+        "comments": 1.0,
+        "shares": 38.0,
+        "saves": 93.0,
+        "reach_timeseries": [
+          {
+            "date": "2026-04-11",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0.0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 2.0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 24257.0
+          },
+          {
+            "date": "2026-04-19",
+            "value": 28342.0
+          },
+          {
+            "date": "2026-04-20",
+            "value": 1260.0
+          },
+          {
+            "date": "2026-04-21",
+            "value": 843.0
+          },
+          {
+            "date": "2026-04-22",
+            "value": 494.0
+          },
+          {
+            "date": "2026-04-23",
+            "value": 567.0
+          },
+          {
+            "date": "2026-04-24",
+            "value": 486.0
+          },
+          {
+            "date": "2026-04-25",
+            "value": 811.0
+          },
+          {
+            "date": "2026-04-26",
+            "value": 738.0
+          },
+          {
+            "date": "2026-04-27",
+            "value": 418.0
+          },
+          {
+            "date": "2026-04-28",
+            "value": 642.0
+          },
+          {
+            "date": "2026-04-29",
+            "value": 457.0
+          },
+          {
+            "date": "2026-04-30",
+            "value": 298.0
+          },
+          {
+            "date": "2026-05-01",
+            "value": 290.0
+          },
+          {
+            "date": "2026-05-02",
+            "value": 43.0
+          },
+          {
+            "date": "2026-05-03",
+            "value": 202.0
+          },
+          {
+            "date": "2026-05-04",
+            "value": 22.0
+          },
+          {
+            "date": "2026-05-05",
+            "value": 230.0
+          },
+          {
+            "date": "2026-05-06",
+            "value": 305.0
+          },
+          {
+            "date": "2026-05-07",
+            "value": 273.0
+          },
+          {
+            "date": "2026-05-08",
+            "value": 244.0
+          },
+          {
+            "date": "2026-05-09",
+            "value": 123.0
+          }
+        ],
+        "metric_type": "reach",
+        "available_metrics": [
+          "followers",
+          "reach",
+          "views",
+          "impressions",
+          "profileViews",
+          "likes",
+          "comments",
+          "shares",
+          "saves"
+        ],
+        "metric_labels": {
+          "reach": "Unique Reach",
+          "views": "Views",
+          "impressions": "Views",
+          "profileViews": "Accounts Engaged"
+        },
+        "primary_impressions_field": "reach"
+      }
+    },
+    "youtube": {
+      "youtube": {
+        "followers": 5650,
+        "reach": 0,
+        "impressions": 11129532,
+        "likes": 219262,
+        "comments": 196,
+        "shares": 2154,
+        "saves": 0,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-04-10",
+            "value": 0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 1101
+          },
+          {
+            "date": "2026-04-19",
+            "value": 6
+          },
+          {
+            "date": "2026-04-20",
+            "value": 38231
+          },
+          {
+            "date": "2026-04-21",
+            "value": 95183
+          },
+          {
+            "date": "2026-04-22",
+            "value": 510539
+          },
+          {
+            "date": "2026-04-23",
+            "value": 447742
+          },
+          {
+            "date": "2026-04-24",
+            "value": 604377
+          },
+          {
+            "date": "2026-04-25",
+            "value": 606888
+          },
+          {
+            "date": "2026-04-26",
+            "value": 416687
+          },
+          {
+            "date": "2026-04-27",
+            "value": 256962
+          },
+          {
+            "date": "2026-04-28",
+            "value": 183861
+          },
+          {
+            "date": "2026-04-29",
+            "value": 153281
+          },
+          {
+            "date": "2026-04-30",
+            "value": 174698
+          },
+          {
+            "date": "2026-05-01",
+            "value": 206072
+          },
+          {
+            "date": "2026-05-02",
+            "value": 522422
+          },
+          {
+            "date": "2026-05-03",
+            "value": 1034800
+          },
+          {
+            "date": "2026-05-04",
+            "value": 1605499
+          },
+          {
+            "date": "2026-05-05",
+            "value": 1985583
+          },
+          {
+            "date": "2026-05-06",
+            "value": 1429991
+          },
+          {
+            "date": "2026-05-07",
+            "value": 855609
+          },
+          {
+            "date": "2026-05-08",
+            "value": 0
+          },
+          {
+            "date": "2026-05-09",
+            "value": 0
+          }
+        ],
+        "metric_type": "views",
+        "data_source": "youtube_analytics_api",
+        "available_metrics": [
+          "followers",
+          "impressions",
+          "likes",
+          "comments",
+          "shares"
+        ],
+        "metric_labels": {
+          "impressions": "Video Views",
+          "followers": "Subscribers"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    },
+    "x": {
+      "x": {
+        "followers": 1,
+        "reach": 0,
+        "impressions": 20,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-04-10",
+            "value": 0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 0
+          },
+          {
+            "date": "2026-04-19",
+            "value": 0
+          },
+          {
+            "date": "2026-04-20",
+            "value": 0
+          },
+          {
+            "date": "2026-04-21",
+            "value": 0
+          },
+          {
+            "date": "2026-04-22",
+            "value": 0
+          },
+          {
+            "date": "2026-04-23",
+            "value": 0
+          },
+          {
+            "date": "2026-04-24",
+            "value": 0
+          },
+          {
+            "date": "2026-04-25",
+            "value": 0
+          },
+          {
+            "date": "2026-04-26",
+            "value": 0
+          },
+          {
+            "date": "2026-04-27",
+            "value": 0
+          },
+          {
+            "date": "2026-04-28",
+            "value": 0
+          },
+          {
+            "date": "2026-04-29",
+            "value": 0
+          },
+          {
+            "date": "2026-04-30",
+            "value": 0
+          },
+          {
+            "date": "2026-05-01",
+            "value": 0
+          },
+          {
+            "date": "2026-05-02",
+            "value": 0
+          },
+          {
+            "date": "2026-05-03",
+            "value": 0
+          },
+          {
+            "date": "2026-05-04",
+            "value": 0
+          },
+          {
+            "date": "2026-05-05",
+            "value": 0
+          },
+          {
+            "date": "2026-05-06",
+            "value": 1
+          },
+          {
+            "date": "2026-05-07",
+            "value": 7
+          },
+          {
+            "date": "2026-05-08",
+            "value": 8
+          },
+          {
+            "date": "2026-05-09",
+            "value": 4
+          }
+        ],
+        "metric_type": "impressions",
+        "available_metrics": [
+          "followers",
+          "impressions"
+        ],
+        "metric_labels": {
+          "impressions": "Impressions"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    },
+    "tiktok": {
+      "tiktok": {
+        "followers": 533,
+        "reach": 0,
+        "impressions": 791734,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-04-10",
+            "value": 0
+          },
+          {
+            "date": "2026-04-11",
+            "value": 0
+          },
+          {
+            "date": "2026-04-12",
+            "value": 0
+          },
+          {
+            "date": "2026-04-13",
+            "value": 0
+          },
+          {
+            "date": "2026-04-14",
+            "value": 0
+          },
+          {
+            "date": "2026-04-15",
+            "value": 0
+          },
+          {
+            "date": "2026-04-16",
+            "value": 0
+          },
+          {
+            "date": "2026-04-17",
+            "value": 0
+          },
+          {
+            "date": "2026-04-18",
+            "value": 0
+          },
+          {
+            "date": "2026-04-19",
+            "value": 0
+          },
+          {
+            "date": "2026-04-20",
+            "value": 0
+          },
+          {
+            "date": "2026-04-21",
+            "value": 0
+          },
+          {
+            "date": "2026-04-22",
+            "value": 4462
+          },
+          {
+            "date": "2026-04-23",
+            "value": 4739
+          },
+          {
+            "date": "2026-04-24",
+            "value": 5880
+          },
+          {
+            "date": "2026-04-25",
+            "value": 10753
+          },
+          {
+            "date": "2026-04-26",
+            "value": 0
+          },
+          {
+            "date": "2026-04-27",
+            "value": 0
+          },
+          {
+            "date": "2026-04-28",
+            "value": 0
+          },
+          {
+            "date": "2026-04-29",
+            "value": 112632
+          },
+          {
+            "date": "2026-04-30",
+            "value": 149440
+          },
+          {
+            "date": "2026-05-01",
+            "value": 145076
+          },
+          {
+            "date": "2026-05-02",
+            "value": 151176
+          },
+          {
+            "date": "2026-05-03",
+            "value": 304800
+          },
+          {
+            "date": "2026-05-04",
+            "value": 155259
+          },
+          {
+            "date": "2026-05-05",
+            "value": 32964
+          },
+          {
+            "date": "2026-05-06",
+            "value": 33304
+          },
+          {
+            "date": "2026-05-07",
+            "value": 48700
+          },
+          {
+            "date": "2026-05-08",
+            "value": 11410
+          },
+          {
+            "date": "2026-05-09",
+            "value": 1599
+          }
+        ],
+        "likes": 23726,
+        "comments": 53,
+        "shares": 357,
+        "video_count": 40,
+        "following": 4,
+        "metric_type": "views",
+        "available_metrics": [
+          "followers",
+          "impressions",
+          "likes",
+          "comments",
+          "shares",
+          "video_count",
+          "following"
+        ],
+        "metric_labels": {
+          "impressions": "Video Views"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    }
+  },
+  "scheduled": {
+    "scheduled_posts": [
+      {
+        "job_id": "de4206c8d7b54887a5ec9ca1d76e9e98",
+        "scheduled_date": "2026-05-10T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Perfect Touches, Perfect Finishes | Football Compilation",
+        "caption": "",
+        "description": "Grassroots players executing beautiful football moments with precision and flair. This compilation features raw skill, stunning goals, and the football core at its finest\u2014street football players proving that clinical finishing and pure passion define the beautiful game. \u26bd\n\n#footballcore #football #footballtiktok #hopecore #viralvideo #footballvideo #funnyfootball #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Perfect Touches, Perfect Finishes | Football Compilation",
+            "caption": "Grassroots players executing beautiful football moments with precision and flair. This compilation features raw skill, stunning goals, and the football core at its finest\u2014street football players proving that clinical finishing and pure passion define the beautiful game. \u26bd\n\n#footballcore #football #footballtiktok #hopecore #viralvideo #footballvideo #funnyfootball #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/2106bd4b0329441bbfba9b3538a49d2c.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260509T233301Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=2e8b943cb49ad7dfd0a697edfcf1d52c1dc9606c8f7c76178638fa1b578659c3",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/bf62dd85ce71470f82349a5d02b715de.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-10T08:00:00Z"
+      },
+      {
+        "job_id": "15144975d7904c77acc8bfe20da5158f",
+        "scheduled_date": "2026-05-10T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "this is what football core was made for \u26bd \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "this is what football core was made for \u26bd\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #footballedit #foryoupage #skills #viralvideo #hopecore",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "this is what football core was made for \u26bd \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "this is what football core was made for \u26bd\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #footballedit #foryoupage #skills #viralvideo #hopecore"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/37d592c406fc4179ae1727bc9a1c912d.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260509T233301Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=ae93f7f1fdac5d1f0c5bcca343f6cc646023cde73d33b9572ae06d4c2feb508d",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/2b6b7fb46a994bc19d08beaa40ec4031.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-10T08:00:00Z"
+      },
+      {
+        "job_id": "49b1b53066d74245945b0720ac161034",
+        "scheduled_date": "2026-05-10T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core transcends. \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core transcends.\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core transcends. \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core transcends.\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/022e45383c3d4499a762f101a4d5734f.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260509T233301Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=abe322422dde7eeb1aa652462279582591e0ebd0412f5523d04d7e108d83c2cb",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/a49c02c0886c4e75b70268a661f5cf64.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-10T08:00:00Z"
+      },
+      {
+        "job_id": "8f8b2a5b66454d45ac6ff844c866ed32",
+        "scheduled_date": "2026-05-10T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core essence \ud83d\udcab \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core essence \ud83d\udcab\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #fyp #foryoupage #footballedit",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core essence \ud83d\udcab \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "football core essence \ud83d\udcab\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #fyp #foryoupage #footballedit"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/90ee340a1c6f448fafd4a6a6fd676ce2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260509T233301Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=0e62500029510e1f8a952990330796b061019360f8796298285721785dda6871",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/69bb77aed3ad4ff39caff9dceabf3c86.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-10T08:00:00Z"
+      },
+      {
+        "job_id": "f5f0d29cf79e48b5ba743fc82b27c04b",
+        "scheduled_date": "2026-05-10T16:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core mindset \ud83d\udc51 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core mindset \ud83d\udc51\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballvideo #viralvideo #fyp",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core mindset \ud83d\udc51 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core mindset \ud83d\udc51\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballvideo #viralvideo #fyp"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/3030e0f81e714a97bf764c1438d722e3.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260509T233301Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=c46d674f71aeeaa57778ec30eaaa317cd0110b89417cbaf54ef203badf06acf1",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/ac7ea076951a44828c97971700ae32ef.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-10T16:00:00Z"
+      },
+      {
+        "job_id": "1ea52ddb7fe24bbfb5830036a8a76e62",
+        "scheduled_date": "2026-05-10T16:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Raw Skill, Pure Goals \u2013 Grassroots Football \ud83d\udd25",
+        "caption": "",
+        "description": "Street football at its finest. This compilation captures clinical finishing and breathtaking skill from grassroots players worldwide\u2014the football core moments that remind us why the beautiful game thrives everywhere. Raw talent, stunning goals, no filters.\n\n#footballcore #football #footballtiktok #footballskills #footballvideo #foryoupage #soccer #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Raw Skill, Pure Goals \u2013 Grassroots Football \ud83d\udd25",
+            "caption": "Street football at its finest. This compilation captures clinical finishing and breathtaking skill from grassroots players worldwide\u2014the football core moments that remind us why the beautiful game thrives everywhere. Raw talent, stunning goals, no filters.\n\n#footballcore #football #footballtiktok #footballskills #footballvideo #foryoupage #soccer #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/5672c93dbf454406b64be11bf71ce3b8.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260509T233301Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=e666e5496a1b002f4bdbef1849ac0bc923fba6ee58e09cd6f4c7bca46bd609aa",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/f0b705941f234308a693b2c6fc3ac7cd.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-10T16:00:00Z"
+      },
+      {
+        "job_id": "f39d262d8432451385a919602915e5cd",
+        "scheduled_date": "2026-05-10T16:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core visuals that go hard \u26bd \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core visuals that go hard \u26bd\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #fyp #footballedit #hopecore #foryoupage #viralvideo",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core visuals that go hard \u26bd \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "football core visuals that go hard \u26bd\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #fyp #footballedit #hopecore #foryoupage #viralvideo"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/f9c3fda0ddb5424aa21244945ee9b9e3.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260509T233301Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=1a67e2ddb5967bf6c0cfbf6d2a2d880062fed8cc5a9bcf51a57f5d30c25c2fa4",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/76fda8cc47f54d6fb029968ccce7a2f2.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-10T16:00:00Z"
+      },
+      {
+        "job_id": "fd64ff11083e44629e49246e87cada4a",
+        "scheduled_date": "2026-05-10T16:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core all day \ud83d\udd25 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core all day \ud83d\udd25\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core all day \ud83d\udd25 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+            "caption": "football core all day \ud83d\udd25\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/42dd932244654382973b96958dfa4ca2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260509T233301Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=e285205d1b9fce25aae4c12aa16ae4615c949f09dd97dc6eb1a53e849009c568",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/67e6b1efca3d48518f816cb389afa116.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-10T16:00:00Z"
+      }
+    ]
+  }
+}
