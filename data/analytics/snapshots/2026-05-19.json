@@ -1,0 +1,2096 @@
+{
+  "pulled_at": "2026-05-19T10:47:24.521923+02:00",
+  "username": "FCCore-23",
+  "per_platform": {
+    "instagram": {
+      "instagram": {
+        "followers": 24,
+        "reach": 13531.0,
+        "views": 18393.0,
+        "impressions": 18393.0,
+        "profileViews": 998.0,
+        "likes": 1258.0,
+        "comments": 1.0,
+        "shares": 11.0,
+        "saves": 41.0,
+        "reach_timeseries": [
+          {
+            "date": "2026-04-21",
+            "value": 843.0
+          },
+          {
+            "date": "2026-04-22",
+            "value": 494.0
+          },
+          {
+            "date": "2026-04-23",
+            "value": 567.0
+          },
+          {
+            "date": "2026-04-24",
+            "value": 486.0
+          },
+          {
+            "date": "2026-04-25",
+            "value": 811.0
+          },
+          {
+            "date": "2026-04-26",
+            "value": 738.0
+          },
+          {
+            "date": "2026-04-27",
+            "value": 418.0
+          },
+          {
+            "date": "2026-04-28",
+            "value": 642.0
+          },
+          {
+            "date": "2026-04-29",
+            "value": 457.0
+          },
+          {
+            "date": "2026-04-30",
+            "value": 298.0
+          },
+          {
+            "date": "2026-05-01",
+            "value": 290.0
+          },
+          {
+            "date": "2026-05-02",
+            "value": 43.0
+          },
+          {
+            "date": "2026-05-03",
+            "value": 202.0
+          },
+          {
+            "date": "2026-05-04",
+            "value": 22.0
+          },
+          {
+            "date": "2026-05-05",
+            "value": 230.0
+          },
+          {
+            "date": "2026-05-06",
+            "value": 305.0
+          },
+          {
+            "date": "2026-05-07",
+            "value": 273.0
+          },
+          {
+            "date": "2026-05-08",
+            "value": 244.0
+          },
+          {
+            "date": "2026-05-09",
+            "value": 131.0
+          },
+          {
+            "date": "2026-05-10",
+            "value": 1173.0
+          },
+          {
+            "date": "2026-05-11",
+            "value": 396.0
+          },
+          {
+            "date": "2026-05-12",
+            "value": 245.0
+          },
+          {
+            "date": "2026-05-13",
+            "value": 455.0
+          },
+          {
+            "date": "2026-05-14",
+            "value": 361.0
+          },
+          {
+            "date": "2026-05-15",
+            "value": 607.0
+          },
+          {
+            "date": "2026-05-16",
+            "value": 301.0
+          },
+          {
+            "date": "2026-05-17",
+            "value": 630.0
+          },
+          {
+            "date": "2026-05-18",
+            "value": 1768.0
+          },
+          {
+            "date": "2026-05-19",
+            "value": 101.0
+          }
+        ],
+        "metric_type": "reach",
+        "available_metrics": [
+          "followers",
+          "reach",
+          "views",
+          "impressions",
+          "profileViews",
+          "likes",
+          "comments",
+          "shares",
+          "saves"
+        ],
+        "metric_labels": {
+          "reach": "Unique Reach",
+          "views": "Views",
+          "impressions": "Views",
+          "profileViews": "Accounts Engaged"
+        },
+        "primary_impressions_field": "reach"
+      }
+    },
+    "youtube": {
+      "youtube": {
+        "followers": 9270,
+        "reach": 0,
+        "impressions": 15260589,
+        "likes": 308061,
+        "comments": 331,
+        "shares": 3272,
+        "saves": 0,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-04-20",
+            "value": 38231
+          },
+          {
+            "date": "2026-04-21",
+            "value": 95183
+          },
+          {
+            "date": "2026-04-22",
+            "value": 510539
+          },
+          {
+            "date": "2026-04-23",
+            "value": 447742
+          },
+          {
+            "date": "2026-04-24",
+            "value": 604377
+          },
+          {
+            "date": "2026-04-25",
+            "value": 606888
+          },
+          {
+            "date": "2026-04-26",
+            "value": 416687
+          },
+          {
+            "date": "2026-04-27",
+            "value": 256962
+          },
+          {
+            "date": "2026-04-28",
+            "value": 183861
+          },
+          {
+            "date": "2026-04-29",
+            "value": 153281
+          },
+          {
+            "date": "2026-04-30",
+            "value": 174698
+          },
+          {
+            "date": "2026-05-01",
+            "value": 206072
+          },
+          {
+            "date": "2026-05-02",
+            "value": 522422
+          },
+          {
+            "date": "2026-05-03",
+            "value": 1034800
+          },
+          {
+            "date": "2026-05-04",
+            "value": 1605499
+          },
+          {
+            "date": "2026-05-05",
+            "value": 1985583
+          },
+          {
+            "date": "2026-05-06",
+            "value": 1429412
+          },
+          {
+            "date": "2026-05-07",
+            "value": 853207
+          },
+          {
+            "date": "2026-05-08",
+            "value": 484708
+          },
+          {
+            "date": "2026-05-09",
+            "value": 315491
+          },
+          {
+            "date": "2026-05-10",
+            "value": 266894
+          },
+          {
+            "date": "2026-05-11",
+            "value": 418399
+          },
+          {
+            "date": "2026-05-12",
+            "value": 446143
+          },
+          {
+            "date": "2026-05-13",
+            "value": 394183
+          },
+          {
+            "date": "2026-05-14",
+            "value": 434887
+          },
+          {
+            "date": "2026-05-15",
+            "value": 642892
+          },
+          {
+            "date": "2026-05-16",
+            "value": 731548
+          },
+          {
+            "date": "2026-05-17",
+            "value": 0
+          },
+          {
+            "date": "2026-05-18",
+            "value": 0
+          },
+          {
+            "date": "2026-05-19",
+            "value": 0
+          }
+        ],
+        "metric_type": "views",
+        "data_source": "youtube_analytics_api",
+        "available_metrics": [
+          "followers",
+          "impressions",
+          "likes",
+          "comments",
+          "shares"
+        ],
+        "metric_labels": {
+          "impressions": "Video Views",
+          "followers": "Subscribers"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    },
+    "x": {
+      "x": {
+        "followers": 1,
+        "reach": 0,
+        "impressions": 22,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-04-20",
+            "value": 0
+          },
+          {
+            "date": "2026-04-21",
+            "value": 0
+          },
+          {
+            "date": "2026-04-22",
+            "value": 0
+          },
+          {
+            "date": "2026-04-23",
+            "value": 0
+          },
+          {
+            "date": "2026-04-24",
+            "value": 0
+          },
+          {
+            "date": "2026-04-25",
+            "value": 0
+          },
+          {
+            "date": "2026-04-26",
+            "value": 0
+          },
+          {
+            "date": "2026-04-27",
+            "value": 0
+          },
+          {
+            "date": "2026-04-28",
+            "value": 0
+          },
+          {
+            "date": "2026-04-29",
+            "value": 0
+          },
+          {
+            "date": "2026-04-30",
+            "value": 0
+          },
+          {
+            "date": "2026-05-01",
+            "value": 0
+          },
+          {
+            "date": "2026-05-02",
+            "value": 0
+          },
+          {
+            "date": "2026-05-03",
+            "value": 0
+          },
+          {
+            "date": "2026-05-04",
+            "value": 0
+          },
+          {
+            "date": "2026-05-05",
+            "value": 0
+          },
+          {
+            "date": "2026-05-06",
+            "value": 0
+          },
+          {
+            "date": "2026-05-07",
+            "value": 0
+          },
+          {
+            "date": "2026-05-08",
+            "value": 0
+          },
+          {
+            "date": "2026-05-09",
+            "value": 0
+          },
+          {
+            "date": "2026-05-10",
+            "value": 0
+          },
+          {
+            "date": "2026-05-11",
+            "value": 0
+          },
+          {
+            "date": "2026-05-12",
+            "value": 0
+          },
+          {
+            "date": "2026-05-13",
+            "value": 0
+          },
+          {
+            "date": "2026-05-14",
+            "value": 0
+          },
+          {
+            "date": "2026-05-15",
+            "value": 0
+          },
+          {
+            "date": "2026-05-16",
+            "value": 15
+          },
+          {
+            "date": "2026-05-17",
+            "value": 3
+          },
+          {
+            "date": "2026-05-18",
+            "value": 4
+          },
+          {
+            "date": "2026-05-19",
+            "value": 0
+          }
+        ],
+        "metric_type": "impressions",
+        "available_metrics": [
+          "followers",
+          "impressions"
+        ],
+        "metric_labels": {
+          "impressions": "Impressions"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    },
+    "tiktok": {
+      "tiktok": {
+        "followers": 723,
+        "reach": 0,
+        "impressions": 278658,
+        "profileViews": 0,
+        "reach_timeseries": [
+          {
+            "date": "2026-04-20",
+            "value": 0
+          },
+          {
+            "date": "2026-04-21",
+            "value": 0
+          },
+          {
+            "date": "2026-04-22",
+            "value": 4462
+          },
+          {
+            "date": "2026-04-23",
+            "value": 4739
+          },
+          {
+            "date": "2026-04-24",
+            "value": 5880
+          },
+          {
+            "date": "2026-04-25",
+            "value": 10753
+          },
+          {
+            "date": "2026-04-26",
+            "value": 0
+          },
+          {
+            "date": "2026-04-27",
+            "value": 0
+          },
+          {
+            "date": "2026-04-28",
+            "value": 0
+          },
+          {
+            "date": "2026-04-29",
+            "value": 112632
+          },
+          {
+            "date": "2026-04-30",
+            "value": 149440
+          },
+          {
+            "date": "2026-05-01",
+            "value": 145076
+          },
+          {
+            "date": "2026-05-02",
+            "value": 151176
+          },
+          {
+            "date": "2026-05-03",
+            "value": 304800
+          },
+          {
+            "date": "2026-05-04",
+            "value": 155259
+          },
+          {
+            "date": "2026-05-05",
+            "value": 32964
+          },
+          {
+            "date": "2026-05-06",
+            "value": 33304
+          },
+          {
+            "date": "2026-05-07",
+            "value": 48700
+          },
+          {
+            "date": "2026-05-08",
+            "value": 11410
+          },
+          {
+            "date": "2026-05-09",
+            "value": 0
+          },
+          {
+            "date": "2026-05-10",
+            "value": 3795
+          },
+          {
+            "date": "2026-05-11",
+            "value": 0
+          },
+          {
+            "date": "2026-05-12",
+            "value": 29573
+          },
+          {
+            "date": "2026-05-13",
+            "value": 7612
+          },
+          {
+            "date": "2026-05-14",
+            "value": 17535
+          },
+          {
+            "date": "2026-05-15",
+            "value": 31847
+          },
+          {
+            "date": "2026-05-16",
+            "value": 38614
+          },
+          {
+            "date": "2026-05-17",
+            "value": 0
+          },
+          {
+            "date": "2026-05-18",
+            "value": 35458
+          },
+          {
+            "date": "2026-05-19",
+            "value": 0
+          }
+        ],
+        "likes": 31310,
+        "comments": 28,
+        "shares": 299,
+        "video_count": 67,
+        "following": 4,
+        "metric_type": "views",
+        "available_metrics": [
+          "followers",
+          "impressions",
+          "likes",
+          "comments",
+          "shares",
+          "video_count",
+          "following"
+        ],
+        "metric_labels": {
+          "impressions": "Video Views"
+        },
+        "primary_impressions_field": "impressions"
+      }
+    }
+  },
+  "scheduled": {
+    "scheduled_posts": [
+      {
+        "job_id": "b8ed984f9b514403a555237c49e20e4a",
+        "scheduled_date": "2026-05-19T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core aesthetic \ud83d\udc51 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core aesthetic \ud83d\udc51\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #beautifulgame #footballvideo #funnyfootball",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core aesthetic \ud83d\udc51 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "football core aesthetic \ud83d\udc51\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #beautifulgame #footballvideo #funnyfootball"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/641b5f3c04b741bd87c5c076165ab2c4.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=c62889c1276ca46fef81cd560cf3848c584061c9906b83ca0e76e124ce356fb8",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/9192824a765e4f3e9ade5cd3f97803fe.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-19T13:00:00Z"
+      },
+      {
+        "job_id": "d07f7f35ba7742a69ee45e005ada917d",
+        "scheduled_date": "2026-05-19T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Elite Finishing: Grassroots Goals Compilation",
+        "caption": "",
+        "description": "Watch street football players execute clinical finishes across pitches worldwide. This compilation celebrates the football core\u2014where raw grassroots talent meets precision in stunning goal moments. Pure skill, beautiful game.\n\n#footballcore #football #footballtiktok #foryoupage #footballedit #hopecore #soccerlife #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Elite Finishing: Grassroots Goals Compilation",
+            "caption": "Watch street football players execute clinical finishes across pitches worldwide. This compilation celebrates the football core\u2014where raw grassroots talent meets precision in stunning goal moments. Pure skill, beautiful game.\n\n#footballcore #football #footballtiktok #foryoupage #footballedit #hopecore #soccerlife #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/bf823dddb11d4b1bbcf8bb82e53ec886.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=b89c403d6baf6b55d753fe55bd7310864760cc81066779de27817eff726dccdb",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/27dcc58a96054c02b1b3822ae2ec348e.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-19T13:00:00Z"
+      },
+      {
+        "job_id": "0db4f4cbc8cc4112a1317302d2117568",
+        "scheduled_date": "2026-05-19T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core obsession hits different \u26bd \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core obsession hits different \u26bd\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #soccer #soccerlife #foryoupage #footballskills #viralvideo",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core obsession hits different \u26bd \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core obsession hits different \u26bd\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #soccer #soccerlife #foryoupage #footballskills #viralvideo"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/84002770bb5e4edc8e66033c4f34a7aa.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=b86c3403600e4c736c9d7114aa3263236f1130a4143224b7b08716556a3f45cf",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/a94245c78cd6465c94864b584c86f86b.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-19T13:00:00Z"
+      },
+      {
+        "job_id": "fb9561ee6532472a8125f1b497b07836",
+        "scheduled_date": "2026-05-19T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core never misses \ud83d\udcab \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core never misses \ud83d\udcab\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core never misses \ud83d\udcab \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core never misses \ud83d\udcab\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/21590c1c500e43c9ad2f7fd947b5a9c9.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=0fc14082727f8cfc879a29eec2b740dffca436d9b7bba2c3fd7c712fc7706588",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/4500ef86c6784259924c135931692971.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-19T13:00:00Z"
+      },
+      {
+        "job_id": "bc701fb59fe3453da11eae4cb92f7afd",
+        "scheduled_date": "2026-05-19T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core addiction \ud83d\udd25 \u26bd41 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core addiction \ud83d\udd25 \u26bd41\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #beautifulgame #fyp",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core addiction \ud83d\udd25 \u26bd41 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core addiction \ud83d\udd25 \u26bd41\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #beautifulgame #fyp"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/f869f1e3276343cfb1c074c8ecdf0d14.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=9b56572c9f16be6bad9e10f36784d729a0e3775eb9d32d86190e28b477cc1b36",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/f839283e52c045b690c1fe64980617e8.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-19T18:00:00Z"
+      },
+      {
+        "job_id": "8b91cb06df25447daf9cf11fc27458c4",
+        "scheduled_date": "2026-05-19T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Football's Most Honest Moments",
+        "caption": "",
+        "description": "A compilation of pure, unfiltered football from grassroots pitches worldwide. Watch skilled players deliver stunning goals and beautiful moments that capture why the football core thrives everywhere\u2014where raw passion meets precision on street pitches.\n\n#footballcore #football #footballtiktok #soccerlife #hopecore #skills #footballvideo #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Football's Most Honest Moments",
+            "caption": "A compilation of pure, unfiltered football from grassroots pitches worldwide. Watch skilled players deliver stunning goals and beautiful moments that capture why the football core thrives everywhere\u2014where raw passion meets precision on street pitches.\n\n#footballcore #football #footballtiktok #soccerlife #hopecore #skills #footballvideo #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/c5af848ac3ff40529b9ca15a8bc18468.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=9e4f0997e66eccb9fab902012ad6cf2c3ff5394a08b86aa8ddbd9b4599fd9818",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/847487f84acd4aa59e175eb0ac4e9b52.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-19T18:00:00Z"
+      },
+      {
+        "job_id": "49ea29a4c8924f65852cf6227ede91c8",
+        "scheduled_date": "2026-05-19T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core that makes you feel alive \u26bd \u26bd41 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core that makes you feel alive \u26bd \u26bd41\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #funnyfootball #viralvideo #skills #footballedit #soccer",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core that makes you feel alive \u26bd \u26bd41 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "football core that makes you feel alive \u26bd \u26bd41\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #funnyfootball #viralvideo #skills #footballedit #soccer"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/8acd119891e04305a92f33a992824986.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=378bd5bfbf29361e414f7271d2b3566648c1773d94d19fe98c0f07e2796e9a66",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/6b28c45bf5ed43cd9c63ef73254e41ca.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-19T18:00:00Z"
+      },
+      {
+        "job_id": "8764107573c349358d4d01d31ddc709e",
+        "scheduled_date": "2026-05-19T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core > everything \ud83d\udc51 \u26bd41 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core > everything \ud83d\udc51 \u26bd41\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core > everything \ud83d\udc51 \u26bd41 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core > everything \ud83d\udc51 \u26bd41\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/6d8ea2f473bf4166821878ae092ac340.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=0f039305c911b5cfa819d6c21bfcec7295ffedfe85eac7d62f21f6eba3d848e4",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/bf604f4abece4d9ba716d8c322a178e9.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-19T18:00:00Z"
+      },
+      {
+        "job_id": "2cccf394bfc54b9790f8b93d28aa49de",
+        "scheduled_date": "2026-05-20T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core transcendence \ud83d\udc51 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core transcendence \ud83d\udc51\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #soccer #footballvideo #fyp",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core transcendence \ud83d\udc51 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+            "caption": "football core transcendence \ud83d\udc51\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #soccer #footballvideo #fyp"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/1f15d888977245118f502cc522558008.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=d42dc67275e8cf80a3c4e3ff4a511cfe9734e02d9f39b7000fa4b04da32926e1",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/7dd43207522a4820a774f5d4eda36e78.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T08:00:00Z"
+      },
+      {
+        "job_id": "88fec0d5ed324edb969e23cdc6cb6d58",
+        "scheduled_date": "2026-05-20T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Beautiful Goals, Zero Excuses",
+        "caption": "",
+        "description": "Grassroots players from street pitches worldwide delivering clinical finishes and pure skill. This football compilation captures the football core at its rawest\u2014where passion and precision define the beautiful game everywhere. No stadium needed, just football. \u26bd\n\n#footballcore #football #footballtiktok #skills #hopecore #fyp #beautifulgame #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Beautiful Goals, Zero Excuses",
+            "caption": "Grassroots players from street pitches worldwide delivering clinical finishes and pure skill. This football compilation captures the football core at its rawest\u2014where passion and precision define the beautiful game everywhere. No stadium needed, just football. \u26bd\n\n#footballcore #football #footballtiktok #skills #hopecore #fyp #beautifulgame #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/7b80f4a2322a41c99c5b1a58bce3279d.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=6d70b41645a9024d64365793eb4a649691c45f6f46fa0637374305bb424243a8",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/7aad961ef8e641b8848fd86d3030f3e8.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T08:00:00Z"
+      },
+      {
+        "job_id": "e4249394962144d3a3c16f3cf5ac0217",
+        "scheduled_date": "2026-05-20T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core obsession never stops \u26bd \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core obsession never stops \u26bd\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballvideo #funnyfootball #soccerlife #hopecore #beautifulgame",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core obsession never stops \u26bd \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core obsession never stops \u26bd\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballvideo #funnyfootball #soccerlife #hopecore #beautifulgame"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/c83f1d2395084ac68dc357341a650d3f.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=fe9fa71e4df4f37b5293faa82a359674697f3deaeff9c0f4546801260a582ef4",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/3b915391f6ce457784933278b23dc471.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T08:00:00Z"
+      },
+      {
+        "job_id": "357e7d6e9b74472dbd4a0f76bc182584",
+        "scheduled_date": "2026-05-20T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core addiction \ud83d\udcab \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core addiction \ud83d\udcab\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core addiction \ud83d\udcab \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core addiction \ud83d\udcab\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/ac6998cea8c74fada56b54fb6b9cfff2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=1ac983a65a06469cfeff3d38e2a77ccd22ec01cfe895ae0d2231317dc0e8d1fc",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/cfa54e5c11974d8bac6f02b61388eeee.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T08:00:00Z"
+      },
+      {
+        "job_id": "d0f790cda62c48b7bf56b062d4db9dd8",
+        "scheduled_date": "2026-05-20T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core obsession \ud83e\udd2f \u26bd27 \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core obsession \ud83e\udd2f \u26bd27\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #fyp #hopecore #footballedit",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core obsession \ud83e\udd2f \u26bd27 \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core obsession \ud83e\udd2f \u26bd27\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #fyp #hopecore #footballedit"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/41fe7400af50463eb2b0214b7af5eca9.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084728Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=544de0648034fbe8c55a0d6f74f6ebff4a937b0267b249ed3173a633d259e3ba",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/4a37a47402c647328cc5e4f5c0caaee8.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T13:00:00Z"
+      },
+      {
+        "job_id": "4233d94b6a2140f1bc278cd5e21ce4cd",
+        "scheduled_date": "2026-05-20T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Goals & Grace: Football's Purest Moments",
+        "caption": "",
+        "description": "A compilation of clinical finishing and beautiful football from grassroots players across street pitches worldwide. This is football core\u2014where raw skill and precision meet pure passion. The beautiful game at its finest. \u26bd\n\n#footballcore #football #footballtiktok #footballshorts #funnyfootball #hopecore #footballedit #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Goals & Grace: Football's Purest Moments",
+            "caption": "A compilation of clinical finishing and beautiful football from grassroots players across street pitches worldwide. This is football core\u2014where raw skill and precision meet pure passion. The beautiful game at its finest. \u26bd\n\n#footballcore #football #footballtiktok #footballshorts #funnyfootball #hopecore #footballedit #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/da3a67fa0b6c48da8facee12a1bedaba.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=b0b630fb147827c8696ce2b5a7289a1fecfe282b3fbd2bb63dac81e839df1445",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/42761f016bec44dca5b7522951b6a3d2.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T13:00:00Z"
+      },
+      {
+        "job_id": "56101297656e4f719674f1c90e2db32e",
+        "scheduled_date": "2026-05-20T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core takes over your feed \u26bd \u26bd27 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core takes over your feed \u26bd \u26bd27\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballskills #soccer #viralvideo #footballvideo #foryoupage",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core takes over your feed \u26bd \u26bd27 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core takes over your feed \u26bd \u26bd27\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballskills #soccer #viralvideo #footballvideo #foryoupage"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/ad6dffecb03b43dfbb33ef9a2197acb2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=b965e96cd233c6ad7912bb9cf11c38d80a836543da8a8a16dabe1a13a07b0e5d",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/fdee9f42f7264099bc8aa682cb5178e0.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T13:00:00Z"
+      },
+      {
+        "job_id": "66b45fc337a94b61a9d97809c43eb375",
+        "scheduled_date": "2026-05-20T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core never stops \ud83d\udc51 \u26bd27 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core never stops \ud83d\udc51 \u26bd27\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core never stops \ud83d\udc51 \u26bd27 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+            "caption": "football core never stops \ud83d\udc51 \u26bd27\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/700ca4f61baf44efa849c739e6303007.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=5a93621337218160cbaccf1d0e6fa83eeffb6e41a0a2d8083078275c243acead",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/84965527e4dd4c0e9ba7478dc2f30dd7.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T13:00:00Z"
+      },
+      {
+        "job_id": "75d2128a34254d2c933fe031fae3d071",
+        "scheduled_date": "2026-05-20T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "hopecore football \u26bd \ud83d\udc5196 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "hopecore football \u26bd \ud83d\udc5196\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #soccer #viralvideo #beautifulgame",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "hopecore football \u26bd \ud83d\udc5196 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+            "caption": "hopecore football \u26bd \ud83d\udc5196\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #soccer #viralvideo #beautifulgame"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/819c7af1586648f9857538301a8db65b.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=7103505f8ae31ded72800eed73529f8ec3faa45da2cb167276d6ae76a3b4527f",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/3acc1fbb48d849dabd4af6494e64ec85.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T18:00:00Z"
+      },
+      {
+        "job_id": "ecf04aca98b44cddad7bfe3ba1a5fc54",
+        "scheduled_date": "2026-05-20T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Goals That Hit Different",
+        "caption": "",
+        "description": "Grassroots players from street football worldwide delivering moments that remind us why we love this game. This compilation captures raw skill, clinical finishing, and the pure passion that defines football at its core. \u26bd\n\n#footballcore #football #footballtiktok #footballshorts #funnyfootball #footballedit #footballvideo #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Goals That Hit Different",
+            "caption": "Grassroots players from street football worldwide delivering moments that remind us why we love this game. This compilation captures raw skill, clinical finishing, and the pure passion that defines football at its core. \u26bd\n\n#footballcore #football #footballtiktok #footballshorts #funnyfootball #footballedit #footballvideo #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/8f2b1c2cd0f84c85909315460b77f8ac.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=4f28442f112a2ddb35e8e695f0198d08413dc40760ab1b04063783fdeede2ad6",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/f032bd2734d642a2819f2d4e88a40c74.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T18:00:00Z"
+      },
+      {
+        "job_id": "8158fc85036a40c180322c6d78365b01",
+        "scheduled_date": "2026-05-20T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core takes over your soul \ud83d\udc51 \ud83d\udc5196 \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core takes over your soul \ud83d\udc51 \ud83d\udc5196\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #foryoupage #hopecore #footballedit #soccerlife #footballskills",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core takes over your soul \ud83d\udc51 \ud83d\udc5196 \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core takes over your soul \ud83d\udc51 \ud83d\udc5196\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #foryoupage #hopecore #footballedit #soccerlife #footballskills"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/f818fa34b4b5466296676464d4497c13.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=5b1dac2c887db2e4853d4941e97bb57e13edc02e034b32561e5b6e53a2c35c84",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/19914f641e2241f18a914a3982c44477.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T18:00:00Z"
+      },
+      {
+        "job_id": "9fe2d93a52724351a80519f0b38bb338",
+        "scheduled_date": "2026-05-20T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core never misses \ud83e\udd2f \ud83d\udc5196 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core never misses \ud83e\udd2f \ud83d\udc5196\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core never misses \ud83e\udd2f \ud83d\udc5196 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core never misses \ud83e\udd2f \ud83d\udc5196\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/0a4ecf20cacc4721940494ea8a26b7af.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=c844e919896b14b0a3c935665691b15bb44e6c595a538ba42ec5e6aae5b0ae15",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/e00cb1bd104c4ae38b10e1227870388a.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-20T18:00:00Z"
+      },
+      {
+        "job_id": "385655addbca4afc8fa606145b151dd8",
+        "scheduled_date": "2026-05-21T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core addiction \ud83e\udd2f \ud83e\udd2f38 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core addiction \ud83e\udd2f \ud83e\udd2f38\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #hopecore #footballvideo #footballshorts",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core addiction \ud83e\udd2f \ud83e\udd2f38 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core addiction \ud83e\udd2f \ud83e\udd2f38\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #hopecore #footballvideo #footballshorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/068aa75995a4417c9fccfa18ebd8b1fe.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=9d6680a0cc0d2c58a61d0ef2534b1c77b24d7ad4153b0aaca2408ed16c13e5f3",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/036c218e61b243d1892712a28168d6c4.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T08:00:00Z"
+      },
+      {
+        "job_id": "219b5d6d51cc45a49ddbb256cfcb4d97",
+        "scheduled_date": "2026-05-21T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Beautiful Goals from Street Pitches Worldwide",
+        "caption": "",
+        "description": "A compilation of stunning finishes and raw skill from grassroots football players everywhere. This is football core\u2014where street players prove precision and passion define the beautiful game, no stadium needed. \u26bd\n\n#footballcore #football #footballtiktok #skills #footballskills #footballvideo #fyp #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Beautiful Goals from Street Pitches Worldwide",
+            "caption": "A compilation of stunning finishes and raw skill from grassroots football players everywhere. This is football core\u2014where street players prove precision and passion define the beautiful game, no stadium needed. \u26bd\n\n#footballcore #football #footballtiktok #skills #footballskills #footballvideo #fyp #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/f405c4c52d074b0b93b0139f3bc96abc.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c60f29d0a47b4e644c0077131cbcf8ecaabafc70bf2d3c6f3d98927105a74e0",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/433df71e1c714a8dba13a09e6418a97a.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T08:00:00Z"
+      },
+      {
+        "job_id": "7e091889389140f08ef6012b890af053",
+        "scheduled_date": "2026-05-21T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core obsession hits different every time \u26bd \ud83e\udd2f38 \u2014 fav clip? \u2b07\ufe0f follow for daily football cor",
+        "caption": "",
+        "description": "football core obsession hits different every time \u26bd \ud83e\udd2f38\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballvideo #skills #footballskills #beautifulgame #hopecore",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core obsession hits different every time \u26bd \ud83e\udd2f38 \u2014 fav clip? \u2b07\ufe0f follow for daily football cor",
+            "caption": "football core obsession hits different every time \u26bd \ud83e\udd2f38\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballvideo #skills #footballskills #beautifulgame #hopecore"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/6234034b4dbe43e889e8336800414eaf.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0fce95a8ae340260f036cdddef905218a9edbb3a7aa8c25b1fb983fdd585f6b",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/e9dcb2bee4ba41cd9dc277c3efe76fe6.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T08:00:00Z"
+      },
+      {
+        "job_id": "753229bdc7de4411ba6be9f98fc8c15c",
+        "scheduled_date": "2026-05-21T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core never misses \ud83d\udc51 \ud83e\udd2f38 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core never misses \ud83d\udc51 \ud83e\udd2f38\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core never misses \ud83d\udc51 \ud83e\udd2f38 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core never misses \ud83d\udc51 \ud83e\udd2f38\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/cbfdd2f675ec47a6b21a23fc9906d49c.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=3bc9140132ba95e4433041f3f660c50f96f31e2f1e0bdcd68ccd5d4ad0eb867c",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/68805a27437a4d4dac3c61959aac679a.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T08:00:00Z"
+      },
+      {
+        "job_id": "8b7b93468ce6490789cedd3923e3d19b",
+        "scheduled_date": "2026-05-21T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core addiction \ud83d\udd25 \ud83d\udc5111 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core addiction \ud83d\udd25 \ud83d\udc5111\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #skills #footballvideo #fyp",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core addiction \ud83d\udd25 \ud83d\udc5111 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+            "caption": "football core addiction \ud83d\udd25 \ud83d\udc5111\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #skills #footballvideo #fyp"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/859861871a754102bd8dfa5ec7452e7b.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=d3a0823e0bb27dd80c18a58ecfcc604ac229572c0dc3d276724e84e197ccacd6",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/e4fb27bfefcf434f9de38e0abeee55a4.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T13:00:00Z"
+      },
+      {
+        "job_id": "adbc03b90b5d497db77b650e6aed6979",
+        "scheduled_date": "2026-05-21T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Beautiful Game, Beautiful Moments \u26bd",
+        "caption": "",
+        "description": "Grassroots football at its finest. This compilation showcases clinical finishing and raw skill from street players worldwide\u2014the moments that remind us why football's core belongs everywhere. Pure talent, stunning goals, no filters.\n\n#footballcore #football #footballtiktok #fyp #footballshorts #footballskills #foryoupage #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Beautiful Game, Beautiful Moments \u26bd",
+            "caption": "Grassroots football at its finest. This compilation showcases clinical finishing and raw skill from street players worldwide\u2014the moments that remind us why football's core belongs everywhere. Pure talent, stunning goals, no filters.\n\n#footballcore #football #footballtiktok #fyp #footballshorts #footballskills #foryoupage #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/74bba47b22084e8ba460e166b46c1d00.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=0b4597eb03aea1f70ab7b197620884104eb919057040107c21cddc1652c90c0d",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/7ec579970a1e46eaa6f53365d4aebc2c.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T13:00:00Z"
+      },
+      {
+        "job_id": "95f9ee4de4274008948a29c685caa640",
+        "scheduled_date": "2026-05-21T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core beauty in every frame \u26bd \ud83d\udc5111 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core beauty in every frame \u26bd \ud83d\udc5111\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #fyp #foryoupage #footballshorts #soccerlife",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core beauty in every frame \u26bd \ud83d\udc5111 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core beauty in every frame \u26bd \ud83d\udc5111\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #fyp #foryoupage #footballshorts #soccerlife"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/68ef991210c2424dbc819112e90dba40.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=99c4b1dae4b6ab379d41ad0ee51038aabd102ac59639fe7e24fa05ef52f1a4db",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/69069ce195df490c9434ccb6a6f76785.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T13:00:00Z"
+      },
+      {
+        "job_id": "5c87987ab31941a199b51daf3595efbe",
+        "scheduled_date": "2026-05-21T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core > everything \ud83d\udc5111 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core > everything \ud83d\udc5111\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core > everything \ud83d\udc5111 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "football core > everything \ud83d\udc5111\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/10cf1b6c97534f38bed4f09e2209275f.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=0af939808f845c94896e6cf0139e2dd2eac05bd670b0eae6e2534d6531da730a",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/978a5b004adb43d7ac4f3b257b6899ba.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T13:00:00Z"
+      },
+      {
+        "job_id": "63a9484066714fddbb0b4d997532f083",
+        "scheduled_date": "2026-05-21T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core addiction \ud83e\udd2f \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core addiction \ud83e\udd2f\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #beautifulgame #viralvideo",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core addiction \ud83e\udd2f \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "football core addiction \ud83e\udd2f\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #beautifulgame #viralvideo"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/549ecb9c4ce948158c71628cd85f1174.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084729Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=db531b3927013db285568416616b2726e7b6013946c380a75a88f08b16b362d1",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/f6e37458465d4f8ba976ae1fe2767bb3.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T18:00:00Z"
+      },
+      {
+        "job_id": "680d76098edb45c9b02fd31868985a9a",
+        "scheduled_date": "2026-05-21T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Beautiful Finishes From Street Pitches",
+        "caption": "",
+        "description": "Watch grassroots players deliver stunning goals and clinical finishing from street football pitches worldwide. This football compilation celebrates raw talent and precision\u2014the football core moments that remind us why the beautiful game belongs everywhere.\n\n#footballcore #football #footballtiktok #footballskills #funnyfootball #footballvideo #soccer #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Beautiful Finishes From Street Pitches",
+            "caption": "Watch grassroots players deliver stunning goals and clinical finishing from street football pitches worldwide. This football compilation celebrates raw talent and precision\u2014the football core moments that remind us why the beautiful game belongs everywhere.\n\n#footballcore #football #footballtiktok #footballskills #funnyfootball #footballvideo #soccer #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/88f0a0be0f8648e787e6227c095ab7c2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=6d46378f427ca1d5053cd7c4b81f452bf6bca5f12c7e944513fb0cf688ebca5d",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/09e07dc4c8f94802a2adcb778141ef62.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T18:00:00Z"
+      },
+      {
+        "job_id": "f4b792de0ba84318b9673c57d429d835",
+        "scheduled_date": "2026-05-21T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core transcends everything \u26bd \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core transcends everything \u26bd\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #viralvideo #fyp #footballvideo #footballedit #funnyfootball",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core transcends everything \u26bd \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "football core transcends everything \u26bd\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #viralvideo #fyp #footballvideo #footballedit #funnyfootball"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/e74e65b68f144116a101aebee650df10.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=e83dcb4d46ed4e85d84a84400bd252aea18710720ced173035ddd0380afff4ef",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/c561f1f2e86e4266a6891cf568dd33d6.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T18:00:00Z"
+      },
+      {
+        "job_id": "5269ea4daff546169da87cc5d75ff41c",
+        "scheduled_date": "2026-05-21T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core no cap \ud83d\udc51 \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core no cap \ud83d\udc51\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core no cap \ud83d\udc51 \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core no cap \ud83d\udc51\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/e0df6215195647f2bf177fdac705b53c.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=389bdd06d5465ccfaf8572fa3d5343bf1187bdcc730dc74cc8afa28bd70263ea",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/f92f1e3b03394be1adda202b1401d941.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-21T18:00:00Z"
+      },
+      {
+        "job_id": "d8dd1ee53c8b40b9aa9724188a982f68",
+        "scheduled_date": "2026-05-22T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core ache \ud83d\udcab \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core ache \ud83d\udcab\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #foryoupage #viralvideo #skills",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core ache \ud83d\udcab \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core ache \ud83d\udcab\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #foryoupage #viralvideo #skills"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/b8c4ad9b2e2f431b8953d73af6ed7da1.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=aa07475b81b37e72d2b5866bd240d9d457cdf0fd5d4581df64aafadca2f19ddc",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/d1eabd2af0ab468b98e265f91a4643bc.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T08:00:00Z"
+      },
+      {
+        "job_id": "bd79ce80c749478ea54d60a0bc1c8037",
+        "scheduled_date": "2026-05-22T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Beautiful Goals From Street Pitches Worldwide \u26bd",
+        "caption": "",
+        "description": "Stunning finishes and raw skill from grassroots football players everywhere. This compilation celebrates the football core\u2014where street pitches and local talent showcase the beautiful game at its purest. Pure passion, clinical finishing, no filters.\n\n#footballcore #football #footballtiktok #skills #fyp #footballvideo #soccer #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Beautiful Goals From Street Pitches Worldwide \u26bd",
+            "caption": "Stunning finishes and raw skill from grassroots football players everywhere. This compilation celebrates the football core\u2014where street pitches and local talent showcase the beautiful game at its purest. Pure passion, clinical finishing, no filters.\n\n#footballcore #football #footballtiktok #skills #fyp #footballvideo #soccer #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/97d7e02572fb473eabc5bc387568b59f.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=39cf888cb0532edfdf9bbce34ea22a355468bcc4f2ef28e213379f3e21d8a4c9",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/a622eef4fc244e08b068552231e998e6.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T08:00:00Z"
+      },
+      {
+        "job_id": "adc7df2691e54c799576f48a4744c58b",
+        "scheduled_date": "2026-05-22T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core rewires your brain \u26bd \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core rewires your brain \u26bd\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballskills #hopecore #beautifulgame #soccerlife #footballedit",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core rewires your brain \u26bd \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core rewires your brain \u26bd\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballskills #hopecore #beautifulgame #soccerlife #footballedit"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/b42c2be35c6d408a94584968414a79a9.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=1459e38d0b30e3d5ffcbf492ac1a6704d6212f952c211b1559d4335837913254",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/784c3a01e9b448e48a8574bb6fd416d1.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T08:00:00Z"
+      },
+      {
+        "job_id": "1a585e9d6a2047c2afcd6ecc178f8b73",
+        "scheduled_date": "2026-05-22T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core >> \ud83d\udc51 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core >> \ud83d\udc51\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core >> \ud83d\udc51 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core >> \ud83d\udc51\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/4a31604fd525476090e1c6ad24c8f894.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=5924ab2f225b7669081d5091c2f53bade5da45266b9d75aee3e1c10250d09384",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/5fd8d0919ab3466da7352e81ca6773a0.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T08:00:00Z"
+      },
+      {
+        "job_id": "0f2bec090506493284fb29f8b6010933",
+        "scheduled_date": "2026-05-22T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core essence \ud83d\udc51 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core essence \ud83d\udc51\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballedit #footballvideo #soccer",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core essence \ud83d\udc51 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+            "caption": "football core essence \ud83d\udc51\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #footballedit #footballvideo #soccer"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/60e3bdd699ba44cfb811bf23bf7e62e4.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=0fd11e01aa28edd08a15dbbe42e9f3f00b137648b8923a54c87f9336c8403b4f",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/a0575d3c66cc4f2296e825dc511ba30f.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T13:00:00Z"
+      },
+      {
+        "job_id": "8af700388562432594bc38572c9d23ba",
+        "scheduled_date": "2026-05-22T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Goals That Define Street Football",
+        "caption": "",
+        "description": "Raw finishing from grassroots pitches around the world. This football compilation celebrates the beautiful game's core\u2014where street players showcase clinical precision and pure skill that reminds us why football thrives everywhere. \ud83d\udd25\n\n#footballcore #football #footballtiktok #soccerlife #soccer #skills #footballedit #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Goals That Define Street Football",
+            "caption": "Raw finishing from grassroots pitches around the world. This football compilation celebrates the beautiful game's core\u2014where street players showcase clinical precision and pure skill that reminds us why football thrives everywhere. \ud83d\udd25\n\n#footballcore #football #footballtiktok #soccerlife #soccer #skills #footballedit #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/fb875131e0024193892cabf98a44916d.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c293f222c1b7cef3e5c542f60c1644481726d6c5367932801b1da4da3527e37",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/7fff0ea2dd034157904b93dab4355adb.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T13:00:00Z"
+      },
+      {
+        "job_id": "e3f4df7e85454a8a8612b07f68414696",
+        "scheduled_date": "2026-05-22T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core takes over your entire soul \u26bd \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core takes over your entire soul \u26bd\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #viralvideo #footballvideo #foryoupage #footballedit #skills",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core takes over your entire soul \u26bd \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core takes over your entire soul \u26bd\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #viralvideo #footballvideo #foryoupage #footballedit #skills"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/6ec1b2f2cf8d41c59a3656f21638fbce.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0e214f8450ebc1f0cd1293fc8d76d358ace036d70c3edb7e4a3a3b1f0fee544",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/72fa66479aea495988a15153a53123f6.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T13:00:00Z"
+      },
+      {
+        "job_id": "fd44b486531844e0befae3832e9c0c77",
+        "scheduled_date": "2026-05-22T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core > everything \ud83e\udd2f \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core > everything \ud83e\udd2f\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core > everything \ud83e\udd2f \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core > everything \ud83e\udd2f\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/a4e24d408a4040bf9dc340a4786d3247.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=db5ebe0cf1432a73cba5d677ab6ec1b53a95d6c203b62a682eba0ee91a3fcfc9",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/66c98e391fa349db83ad07dada169d1b.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T13:00:00Z"
+      },
+      {
+        "job_id": "d386ff72cc834f6383181c7dcb66177e",
+        "scheduled_date": "2026-05-22T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core addiction \ud83d\udd25 \ud83d\udc5198 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core addiction \ud83d\udd25 \ud83d\udc5198\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #skills #soccer #fyp",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core addiction \ud83d\udd25 \ud83d\udc5198 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core addiction \ud83d\udd25 \ud83d\udc5198\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #skills #soccer #fyp"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/2712f5caca9445b7a182a47331e1cbf4.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084730Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=dec86f637896084b09035f23edcb52365d09d7db25c8a638baa3a590bb50ca66",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/399a2a7aa221453c963177fb11d35bb6.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T18:00:00Z"
+      },
+      {
+        "job_id": "9b7ae8cc5f484afb9bc8a2bc79dd362d",
+        "scheduled_date": "2026-05-22T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Beautiful Goals, No Stadium Required \u26bd",
+        "caption": "",
+        "description": "Grassroots players showcase clinical finishing and pure skill across street football pitches worldwide. This compilation captures the football core at its rawest\u2014where raw talent and passion define the beautiful game everywhere it's played.\n\n#footballcore #football #footballtiktok #soccer #viralvideo #footballedit #footballskills #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Beautiful Goals, No Stadium Required \u26bd",
+            "caption": "Grassroots players showcase clinical finishing and pure skill across street football pitches worldwide. This compilation captures the football core at its rawest\u2014where raw talent and passion define the beautiful game everywhere it's played.\n\n#footballcore #football #footballtiktok #soccer #viralvideo #footballedit #footballskills #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/9da29b587eb1428fbaf42e040d579f99.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=3be672da39a08e0fdf5bb362345ec65b9da60b4bb42022c2d5cd35e6a7cf7ae8",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/a8a81a1f891e4ad9b0487ca816679cda.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T18:00:00Z"
+      },
+      {
+        "job_id": "d41cc2ca9f0249eab7a0037173c78364",
+        "scheduled_date": "2026-05-22T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core obsession never stops \u26bd \ud83d\udc5198 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core obsession never stops \u26bd \ud83d\udc5198\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #soccer #footballedit #fyp #footballshorts #hopecore",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core obsession never stops \u26bd \ud83d\udc5198 \u2014 which moment hit different? \u2b07\ufe0f follow for daily",
+            "caption": "football core obsession never stops \u26bd \ud83d\udc5198\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #soccer #footballedit #fyp #footballshorts #hopecore"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/0a4174d489ed4e038844323d2aab62f7.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=2a801408edf957536eff4a3c74b3dfcd8e60a5c70e5e20a9245679402c627869",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/b0c5cc8db8f64a0fbb3a8122ccdd8731.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T18:00:00Z"
+      },
+      {
+        "job_id": "db7ac252ff024a02b4d37bfc8f90db03",
+        "scheduled_date": "2026-05-22T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core > everything \ud83d\udc51 \ud83d\udc5198 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core > everything \ud83d\udc51 \ud83d\udc5198\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core > everything \ud83d\udc51 \ud83d\udc5198 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core > everything \ud83d\udc51 \ud83d\udc5198\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/8c1200ac5f6748ce86de000b9dd32817.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=8a3aa0f9e2074e74379824fe9f925bcfffc77e93bf52433c3be29e557f968847",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/32aacb9883994a5693809dbbcf971ccf.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-22T18:00:00Z"
+      },
+      {
+        "job_id": "86aaf08765f4462a93e7091f0b3f3e8e",
+        "scheduled_date": "2026-05-23T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "hopecore football \u26bd \ud83d\udcab62 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "hopecore football \u26bd \ud83d\udcab62\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #viralvideo #hopecore #funnyfootball",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "hopecore football \u26bd \ud83d\udcab62 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "hopecore football \u26bd \ud83d\udcab62\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #viralvideo #hopecore #funnyfootball"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/5fa1c5810d1244d8b66ce92c491642bf.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=106fda494ea49079e5ac043d6e51209c8a522025428f36ce434794a01a49f570",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/61c638e44ac544529511a4b3ee8eb9d4.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T08:00:00Z"
+      },
+      {
+        "job_id": "0e0642cd508d4b7fb888a4bc0f72553c",
+        "scheduled_date": "2026-05-23T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Grassroots Goals: Football at Its Purest \u26bd",
+        "caption": "",
+        "description": "Raw skill and stunning finishes from street football players worldwide. This compilation celebrates the beautiful game's core\u2014where grassroots talent, clinical finishing, and pure passion come together in every goal. Football without filters.\n\n#footballcore #football #footballtiktok #funnyfootball #footballskills #skills #soccer #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Grassroots Goals: Football at Its Purest \u26bd",
+            "caption": "Raw skill and stunning finishes from street football players worldwide. This compilation celebrates the beautiful game's core\u2014where grassroots talent, clinical finishing, and pure passion come together in every goal. Football without filters.\n\n#footballcore #football #footballtiktok #funnyfootball #footballskills #skills #soccer #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/1b43087b734d477a86c88de4c268c8bb.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=115297267187e03320f61689cdc3b9aa46274f553bc154c68415ed2bdf186d07",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/ffc43e5e4feb44b0b069d54e3df7c1d3.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T08:00:00Z"
+      },
+      {
+        "job_id": "e504c3414a3844f384ba066903683cc5",
+        "scheduled_date": "2026-05-23T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core transcends the game \ud83d\udc51 \ud83d\udcab62 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core transcends the game \ud83d\udc51 \ud83d\udcab62\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #funnyfootball #fyp #foryoupage #footballshorts #beautifulgame",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core transcends the game \ud83d\udc51 \ud83d\udcab62 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core transcends the game \ud83d\udc51 \ud83d\udcab62\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #funnyfootball #fyp #foryoupage #footballshorts #beautifulgame"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/e3cc75074cee443ab1ec2230219de186.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=eb4addf5f93d6c2783498f55bcb840a2d53e471fb990f85abdc59ccd716be59a",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/76568cbe654f46c6b7c956017155bd11.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T08:00:00Z"
+      },
+      {
+        "job_id": "a667a9a84ec64dc088806965b1369650",
+        "scheduled_date": "2026-05-23T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core is a religion \ud83e\udd2f \ud83d\udcab62 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core is a religion \ud83e\udd2f \ud83d\udcab62\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core is a religion \ud83e\udd2f \ud83d\udcab62 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core is a religion \ud83e\udd2f \ud83d\udcab62\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/acedfc8733af416ea93df6704aca5e85.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=19b56b86290afdb60b63bb65b1c1dc220eab76533760644b872c45572f52b710",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/0c884dde13f846858915221532a52d56.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T08:00:00Z"
+      },
+      {
+        "job_id": "1a3777c6390342c78369146b2ba203a7",
+        "scheduled_date": "2026-05-23T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "hopecore football \u26bd \u26bd38 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "hopecore football \u26bd \u26bd38\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #viralvideo #soccerlife #hopecore",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "hopecore football \u26bd \u26bd38 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "hopecore football \u26bd \u26bd38\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #viralvideo #soccerlife #hopecore"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/c704b83f7ac2405fabbf9516d8d5bb7b.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=8ed4b7e1775d46d8d57697fa2074f9f116b4a23fd0a2cafd0206f9ce0ed2daeb",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/ab4d7acb5c9941ae8fcb3bd663fc0ad2.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T13:00:00Z"
+      },
+      {
+        "job_id": "84261492b7da4e6caffa3e0cd495712d",
+        "scheduled_date": "2026-05-23T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Beautiful Goals from the Streets \u26bd",
+        "caption": "",
+        "description": "Grassroots football at its rawest. This compilation showcases clinical finishing and stunning skill from street players worldwide\u2014the moments that capture why the beautiful game thrives everywhere. Pure football, pure passion.\n\n#footballcore #football #footballtiktok #fyp #footballvideo #hopecore #soccerlife #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Beautiful Goals from the Streets \u26bd",
+            "caption": "Grassroots football at its rawest. This compilation showcases clinical finishing and stunning skill from street players worldwide\u2014the moments that capture why the beautiful game thrives everywhere. Pure football, pure passion.\n\n#footballcore #football #footballtiktok #fyp #footballvideo #hopecore #soccerlife #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/d549a9054a0d4c66bd87e078f88f6341.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=b6a9b75d5a67ced6f76e35c04f2ce65c0c6e7f7e9a5e91ab071ee14241fe8360",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/e801fa0751a94ecfbf107aa829828b0c.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T13:00:00Z"
+      },
+      {
+        "job_id": "399862d3954c46b087d7e5b292bcfad8",
+        "scheduled_date": "2026-05-23T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core takes over your feed \ud83d\udc51 \u26bd38 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core takes over your feed \ud83d\udc51 \u26bd38\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #skills #beautifulgame #foryoupage #soccerlife",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core takes over your feed \ud83d\udc51 \u26bd38 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "football core takes over your feed \ud83d\udc51 \u26bd38\n\nwhich moment hit different? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #skills #beautifulgame #foryoupage #soccerlife"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/474be23d7a5a4943901644de62638a49.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=fe8f30f1fd1edd77ea6feb47b394887cac810fa6b5de7cdd59a711e171534ac5",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/d2becbec9cae4c7c94fdd67d0de642d8.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T13:00:00Z"
+      },
+      {
+        "job_id": "7c4def40de064114a834bad39190bb4c",
+        "scheduled_date": "2026-05-23T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core awakening \ud83d\udcab \u26bd38 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core awakening \ud83d\udcab \u26bd38\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core awakening \ud83d\udcab \u26bd38 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core awakening \ud83d\udcab \u26bd38\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/03384a9a21654a4db843c32ab44e2cd4.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=f57fe6d741521a3dce0f570e8af53c3aa4d796ff12206e67c832bd4e270cb857",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/5cb7674f54f04e2ca4d1df3d290d32a8.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T13:00:00Z"
+      },
+      {
+        "job_id": "e1b3c7fbeff34f4c90b996fc604fa438",
+        "scheduled_date": "2026-05-23T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core addiction \ud83e\udd2f \ud83d\udc5115 \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core addiction \ud83e\udd2f \ud83d\udc5115\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #beautifulgame #hopecore #soccer",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core addiction \ud83e\udd2f \ud83d\udc5115 \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core addiction \ud83e\udd2f \ud83d\udc5115\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #beautifulgame #hopecore #soccer"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/56984e2d50ab44ae9ebc7d9ce5b40b06.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=7da814017fd4da183481653c839ca6ed3ed28723103c57a66e2295b8d15268bd",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/d9cba2fdd23e43e78e2e08379bc87a9d.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T18:00:00Z"
+      },
+      {
+        "job_id": "ad337b585d02445cba0c9015145f459b",
+        "scheduled_date": "2026-05-23T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Beautiful Goals from Street Football \ud83d\udd25",
+        "caption": "",
+        "description": "A compilation of stunning goals and pure skill from grassroots football players worldwide. These football core moments capture the raw talent and clinical finishing that make the beautiful game thrive on street pitches everywhere.\n\n#footballcore #football #footballtiktok #footballskills #hopecore #footballedit #fyp #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Beautiful Goals from Street Football \ud83d\udd25",
+            "caption": "A compilation of stunning goals and pure skill from grassroots football players worldwide. These football core moments capture the raw talent and clinical finishing that make the beautiful game thrive on street pitches everywhere.\n\n#footballcore #football #footballtiktok #footballskills #hopecore #footballedit #fyp #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/22580e1a31ed482ba23fa011bc446ad6.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=0eb2149713bf5a86dd4f64e736f75153cb0fc20f282c0ad9fdbc5cbcdf1bf887",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/824ff39533e7408c87b43938079e4b76.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T18:00:00Z"
+      },
+      {
+        "job_id": "fa4297af82704cfcbb2ffeeb54e536e8",
+        "scheduled_date": "2026-05-23T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core beauty in every frame \u26bd \ud83d\udc5115 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core beauty in every frame \u26bd \ud83d\udc5115\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #hopecore #soccerlife #footballskills #footballshorts #skills",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core beauty in every frame \u26bd \ud83d\udc5115 \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core beauty in every frame \u26bd \ud83d\udc5115\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #hopecore #soccerlife #footballskills #footballshorts #skills"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/0a2227fc68ba44edb85a27c1fde7bbc2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=b900031a37e43ad61e17bd8164518d5b5edc1a1a49a542c2c4f90be61930652a",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/a67656fe6f284f4bb3ef91f84211fa10.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T18:00:00Z"
+      },
+      {
+        "job_id": "a9a0348d621747d6b5a7b1ebedccb3e5",
+        "scheduled_date": "2026-05-23T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core > everything \ud83d\udc51 \ud83d\udc5115 \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core > everything \ud83d\udc51 \ud83d\udc5115\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core > everything \ud83d\udc51 \ud83d\udc5115 \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core > everything \ud83d\udc51 \ud83d\udc5115\n\nfav clip? \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/ee1998a5f8204fce90add842d99cadd8.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=a2fceb410f0f8dabeb98026db332764d3cf0a170daef90efb4989f0146c20ffb",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/f06a30b8b435497e8c1f7e0e5a9501de.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-23T18:00:00Z"
+      },
+      {
+        "job_id": "76f5fcd213cc494f943909ecff0a996d",
+        "scheduled_date": "2026-05-24T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "hopecore football moments \u26bd \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "hopecore football moments \u26bd\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #beautifulgame #footballshorts #soccerlife",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "hopecore football moments \u26bd \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "hopecore football moments \u26bd\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #beautifulgame #footballshorts #soccerlife"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/c9a3c4937e2b474caef4eed4b8b0d00c.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084731Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=855088607b7de6fb067883a41344e15eadbd76526af947ea1349367d9c1ecb37",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/4d2185a864fd46979fb591f2aecf3201.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T08:00:00Z"
+      },
+      {
+        "job_id": "2c6da71094e840f8b97b96c2243de607",
+        "scheduled_date": "2026-05-24T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Best Goals This Week | Football Compilation \u26bd",
+        "caption": "",
+        "description": "Weekly roundup of the best football moments\u2014clinical finishes, beautiful skills, and stunning goals from grassroots and street football worldwide. This is football core: raw talent, precision, and pure passion from players proving the beautiful game thrives everywhere.\n\n#footballcore #football #footballtiktok #beautifulgame #viralvideo #footballedit #footballskills #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Best Goals This Week | Football Compilation \u26bd",
+            "caption": "Weekly roundup of the best football moments\u2014clinical finishes, beautiful skills, and stunning goals from grassroots and street football worldwide. This is football core: raw talent, precision, and pure passion from players proving the beautiful game thrives everywhere.\n\n#footballcore #football #footballtiktok #beautifulgame #viralvideo #footballedit #footballskills #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/e65f53d4a64a45a5ade58953efeb9222.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=ff05219bd4bf4a4f6e52c78229d6c6146ea651b2d8e495a4aa7ff1d5e5b29127",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/6feab3915f1345f9a2d73dfd33da8d2a.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T08:00:00Z"
+      },
+      {
+        "job_id": "22142d5eb5964b5da36023fe76826cdb",
+        "scheduled_date": "2026-05-24T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core beauty in slow motion \ud83d\udc51 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core beauty in slow motion \ud83d\udc51\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #funnyfootball #footballskills #beautifulgame #fyp #hopecore",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core beauty in slow motion \ud83d\udc51 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core beauty in slow motion \ud83d\udc51\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #funnyfootball #footballskills #beautifulgame #fyp #hopecore"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/29f68ed384f845a6a9d42146b2d48f31.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=9d156544ce99e47b676d28fa166b974030c103cb3a6813a66003f3ea02dd43a1",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/4fdce9ed21a74212aaa37fa72e3aa33e.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T08:00:00Z"
+      },
+      {
+        "job_id": "b398bc73fb7a4f46805d5d81048d8a16",
+        "scheduled_date": "2026-05-24T08:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "pure football core magic \ud83d\udcab \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "pure football core magic \ud83d\udcab\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "pure football core magic \ud83d\udcab \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "pure football core magic \ud83d\udcab\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/e99c402b9005413393b9745ba45f234d.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=8a0adead6462378bf5fa2bd774a746d564d269b705d8e44df052267a69fc11f0",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/d2073caadc3041a3ada6248f4a2cc7ad.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T08:00:00Z"
+      },
+      {
+        "job_id": "bcd0dcb4b194439cbe1f5c8bd7f46491",
+        "scheduled_date": "2026-05-24T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core addiction \ud83d\udd25 \ud83e\udd2f39 \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core addiction \ud83d\udd25 \ud83e\udd2f39\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #soccer #foryoupage #soccerlife",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core addiction \ud83d\udd25 \ud83e\udd2f39 \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core addiction \ud83d\udd25 \ud83e\udd2f39\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #soccer #foryoupage #soccerlife"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/f455696363464fd9baddd752c56f8056.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=b14a2d1226bd31d434e199f08c1b89c6aae5234ecac7713f43c40a9bf1b4d7fe",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/659263db09274b20b5269aee5cfc3ea2.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T13:00:00Z"
+      },
+      {
+        "job_id": "e3089886d74643c1ade278b869cf3607",
+        "scheduled_date": "2026-05-24T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Goals That Hit Different \u2013 Football Compilation",
+        "caption": "",
+        "description": "When passion meets precision on the pitch. This football compilation celebrates stunning goals and beautiful moments from grassroots players worldwide\u2014the football core moments that remind us why the beautiful game thrives everywhere. Raw skill, pure emotion. \u26bd\n\n#footballcore #football #footballtiktok #footballvideo #beautifulgame #foryoupage #viralvideo #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Goals That Hit Different \u2013 Football Compilation",
+            "caption": "When passion meets precision on the pitch. This football compilation celebrates stunning goals and beautiful moments from grassroots players worldwide\u2014the football core moments that remind us why the beautiful game thrives everywhere. Raw skill, pure emotion. \u26bd\n\n#footballcore #football #footballtiktok #footballvideo #beautifulgame #foryoupage #viralvideo #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/d162ebf094924e268e269c8c7015aa6b.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=9927c6bc395c1049a2bcd84a8e8fbab6e8151a13567e0561c43d5695949d86fd",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/80fccccb2578477780120afc0f68f415.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T13:00:00Z"
+      },
+      {
+        "job_id": "3c76c7dba6c346a69e70be289bfeb14d",
+        "scheduled_date": "2026-05-24T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core is a feeling you can't explain \u26bd \ud83e\udd2f39 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core is a feeling you can't explain \u26bd \ud83e\udd2f39\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #skills #funnyfootball #footballvideo #beautifulgame",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core is a feeling you can't explain \u26bd \ud83e\udd2f39 \u2014 which one do you like more? \u2b07\ufe0f follow for daily",
+            "caption": "football core is a feeling you can't explain \u26bd \ud83e\udd2f39\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football #footballtiktok #hopecore #skills #funnyfootball #footballvideo #beautifulgame"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/0ff4361d8b13474a8eaba466f15a036c.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=8f0e3ac1b1ac2e62549524e66de2b0f1ba0ef5ca9339a8357c5e26410893bdd4",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/3050d76eaffc4f54bdf6a67f147c6cef.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T13:00:00Z"
+      },
+      {
+        "job_id": "275051ffe03b4f7b9a844d33df6a5263",
+        "scheduled_date": "2026-05-24T13:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core > everything \ud83d\udc51 \ud83e\udd2f39 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core > everything \ud83d\udc51 \ud83e\udd2f39\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core > everything \ud83d\udc51 \ud83e\udd2f39 \u2014 fav clip? \u2b07\ufe0f follow for daily football core",
+            "caption": "football core > everything \ud83d\udc51 \ud83e\udd2f39\n\nbest one? \u2b07\ufe0f follow for daily\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/1b6fb7aeeb4249c0be605c6dd9e8b3a7.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=71b8fd6b2a00c6e8040e827ea8ac25bd2cf87140d5ec8a1f58bfb554c5722526",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/292896c783e14ef3a0cf9e3963d84d7b.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T13:00:00Z"
+      },
+      {
+        "job_id": "f673e7609f174c46b2dd2908de53bb22",
+        "scheduled_date": "2026-05-24T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core never stops \ud83e\udd2f \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+        "caption": "",
+        "description": "football core never stops \ud83e\udd2f\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #footballskills #footballvideo #foryoupage",
+        "platforms": [
+          "tiktok"
+        ],
+        "platform_content": {
+          "tiktok": {
+            "title": "football core never stops \ud83e\udd2f \u2014 rate the clip \u2b07\ufe0f follow for daily football core",
+            "caption": "football core never stops \ud83e\udd2f\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #footballskills #footballvideo #foryoupage"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/157d6c8b38664278a7ef7b48ddd41dcc.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=72f13544109cf6dab5749a8c4a9a03df926e6281aded7b3b7b932ab5cbf8ffe7",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/b9d94f294ab642408e596203133f54fe.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T18:00:00Z"
+      },
+      {
+        "job_id": "60039573388843d7bed3db386bf0d3a1",
+        "scheduled_date": "2026-05-24T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "Goals That Deserve a Stadium \u26bd",
+        "caption": "",
+        "description": "Grassroots players executing clinical finishing from street pitches worldwide. This football compilation captures raw skill and beautiful moments that prove the football core thrives everywhere\u2014where passion meets precision in the beautiful game.\n\n#footballcore #football #footballtiktok #footballshorts #funnyfootball #viralvideo #footballedit #Shorts",
+        "platforms": [
+          "youtube"
+        ],
+        "platform_content": {
+          "youtube": {
+            "title": "Goals That Deserve a Stadium \u26bd",
+            "caption": "Grassroots players executing clinical finishing from street pitches worldwide. This football compilation captures raw skill and beautiful moments that prove the football core thrives everywhere\u2014where passion meets precision in the beautiful game.\n\n#footballcore #football #footballtiktok #footballshorts #funnyfootball #viralvideo #footballedit #Shorts"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/a8dbce94f7c44016b3ecdea45c1c483d.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=d8908cd23db3ae0bc9121539264baf764200896992b867d77da85b881f2d8365",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/5038bc2f4f464291a004432b16020fb5.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T18:00:00Z"
+      },
+      {
+        "job_id": "be3b02c69adb4c608e6410de98597c60",
+        "scheduled_date": "2026-05-24T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core is the only language that matters \u26bd \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core is the only language that matters \u26bd\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #footballshorts #soccer #soccerlife #hopecore #footballvideo",
+        "platforms": [
+          "instagram"
+        ],
+        "platform_content": {
+          "instagram": {
+            "title": "football core is the only language that matters \u26bd \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core is the only language that matters \u26bd\n\nrate the clip \u2b07\ufe0f follow for daily football core\n\n#footballcore #football #footballtiktok #footballshorts #soccer #soccerlife #hopecore #footballvideo"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/403388f473014d84bf5b06eed423aa29.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=5ead6dad3f5f790593420c3aedf64e0b9377e7e19ecdef83cf6a4d364206e3a7",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/66747acd71df44b48624252f4b940d64.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T18:00:00Z"
+      },
+      {
+        "job_id": "5dee4604b89e4974880fd7792a3ebf01",
+        "scheduled_date": "2026-05-24T18:00:00",
+        "post_type": "video",
+        "profile_username": "FCCore-23",
+        "title": "football core stays winning \ud83d\udc51 \u2014 best one? \u2b07\ufe0f follow for daily",
+        "caption": "",
+        "description": "football core stays winning \ud83d\udc51\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football",
+        "platforms": [
+          "x"
+        ],
+        "platform_content": {
+          "x": {
+            "title": "football core stays winning \ud83d\udc51 \u2014 best one? \u2b07\ufe0f follow for daily",
+            "caption": "football core stays winning \ud83d\udc51\n\nwhich one do you like more? \u2b07\ufe0f follow for daily\n\n#footballcore #football"
+          }
+        },
+        "preview_url": "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/d2a1399cb3ed46c58152c8f4957053b9.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T084732Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=2037ff05bfa897c1ed373dd218687ebfa9273d07a00d228ff4fc79e372232859",
+        "thumbnail_url": "https://media.upload-post.com/preview-thumbnails/5e05de1d1f8342d08e1f9b526930de4c.jpg",
+        "original_timezone": "Europe/Madrid",
+        "original_scheduled_str": "2026-05-24T18:00:00Z"
+      }
+    ]
+  }
+}
